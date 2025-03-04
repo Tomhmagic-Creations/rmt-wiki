@@ -1,0 +1,13 @@
+/* .vitepress/theme/custom.css */
+.title[data-v-55e263fd] {
+    display: flex;
+    border-bottom: 1px solid transparent;
+    width: 100%;
+    height: var(--vp-nav-height);
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--vp-c-text-1);
+    transition: opacity 0.25s;
+    justify-content: flex-end;
+    align-items: center;
+}

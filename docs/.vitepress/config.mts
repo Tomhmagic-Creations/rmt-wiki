@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Realms Management Tool Wiki",
-  description: "A wiki for the Realms Management Tool Add-On created by Tomhmagic Creations",
+  title: "Realm Management Tool Wiki",
+  description: "A wiki for the Realm Management Tool Add-On created by Tomhmagic Creations",
   lastUpdated: true,
 
   themeConfig: {
@@ -14,7 +14,7 @@ export default defineConfig({
     externalLinkIcon: true,
     logo: '/assets/images/realm_tool.png',
     footer: {
-      copyright: '"Minecraft" is a trademark of Mojang AB. "Realms Management Tool" is a trademark of Tomhmagic Creations Ltd. Realms Management Tool is not affiliated in anyway with Mojang AB. All product and company names are trademarks(™) or registered (®) trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. All specifications are subject to change without notice. Tomhmagic Creations Ltd is a company registered in England and Wales, Company Number: 12984160',
+      copyright: '"Minecraft" is a trademark of Mojang AB. "Realm Management Tool" is a trademark of Tomhmagic Creations Ltd. Realm Management Tool is not affiliated in anyway with Mojang AB. All product and company names are trademarks(™) or registered (®) trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. All specifications are subject to change without notice. Tomhmagic Creations Ltd is a company registered in England and Wales, Company Number: 12984160',
       message: 'Copyright © 2020-present Tomhmagic Creations Ltd'
     },
     nav: [
@@ -35,6 +35,15 @@ export default defineConfig({
               { text: 'Claim Options', link: '/claims/options' },
               { text: 'Trusted Players', link: '/claims/trust' },
               { text: 'Other Claim Info', link: '/claims/other' }
+        ]
+      },
+      {
+        text: 'RMT Menu',
+        items: [
+              { text: 'Main Menu', link: '/menu/index' },
+              { text: 'Commands', link: '/menu/commands' },
+              { text: 'Homes', link: '/menu/homes' },
+              { text: 'Warps', link: '/menu/warps' }
         ]
       }
     ],
@@ -57,12 +66,21 @@ export default defineConfig({
               { text: 'Trusted Players', link: '/claims/trust' },
               { text: 'Other Claim Info', link: '/claims/other' }
         ]
+      },
+      {
+        text: 'RMT Menu',
+        items: [
+              { text: 'Main Menu', link: '/menu/index' },
+              { text: 'Commands', link: '/menu/commands' },
+              { text: 'Homes', link: '/menu/homes' },
+              { text: 'Warps', link: '/menu/warps' }
+        ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'discord', link: 'https://discord.gg/tomhmagic' }
+      { icon: 'discord', link: 'https://discord.gg/tomhmagic' },
+      { icon: 'github', link: 'https://github.com/Tomhmagic-Creations/rmt-wiki' },
     ]
   }
 })

@@ -3,8 +3,8 @@ prev:
     text: 'Terminology'
     link: '/main/termanology'
 next: 
-    text: 'Claim Chunks'
-    link: '/claims/chunks'
+    text: 'Create a Claim'
+    link: '/claims/create'
 ---
 
 # Claims

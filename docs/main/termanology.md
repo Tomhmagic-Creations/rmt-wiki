@@ -11,7 +11,7 @@ next:
 
 Here is a list of terminologies that may be used throughout this guide.
 
-- **RMT** - *Realms Management Tool*, the item to open the main menu.  
+- **RMT** - *Realm Management Tool*, the item to open the main menu.  
 - **Server** - Refers to the world, realm, or server the addon is being hosted on. This could be a local world hosted by a player, a realm, or a server.  
 - **Admin/Administrator** - Owner of the server or a rank given by the owner. Able to access admin settings.  
 - **Mod/Moderator** - Players holding the Moderator rank as selected by admins. Able to access moderation commands and features.  

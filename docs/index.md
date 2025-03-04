@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "Realms Management Tool Wiki"
+  name: "Realm Management Tool Wiki"
   text: ""
-  tagline: A wiki for the Realms Management Tool Add-On created by Tomhmagic Creations
+  tagline: A wiki for the Realm Management Tool Add-On created by Tomhmagic Creations
   image:
     src: /assets/images/realm_tool.png
     alt: VitePress
   actions:
     - theme: brand
-      text: Get the Realms Management Tool Add-On
+      text: Get the Realm Management Tool Add-On
       link: https://www.minecraft.net/en-us/marketplace/pdp?id=ebb2049c-4662-4caa-82b9-e98932b393da
     - theme: alt
       text: Join us on Discord
