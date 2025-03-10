@@ -1,10 +1,10 @@
 ---
 prev: 
     text: 'Other Claim Info'
-    link: '/claims/other'
+    link: 'pages/claims/other'
 next: 
     text: 'Commands'
-    link: '/menu/commands'
+    link: 'pages/menu/commands'
 ---
 
 # Realm Management Tool Menu

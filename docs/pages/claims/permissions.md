@@ -89,3 +89,7 @@ There are multiple different types of permissions; the current sets are:
 - All Candle Cakes
 - Vault
 - All Candles
+
+**Set Home** - Able to set a home in the claim
+
+**Set Player Warp** - Able to set a Player Warp in the claim

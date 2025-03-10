@@ -22,28 +22,44 @@ export default defineConfig({
       {
         text: 'Getting Started',
         items: [
-          { text: 'Installing', link: '/main/index' },
-          { text: 'Terminology', link: '/main/termanology' }
+          { text: 'Installing', link: '/pages/main/index' },
+          { text: 'Terminology', link: '/pages/main/termanology' }
         ]
       },
       {
         text: 'Claims System',
         items: [
-              { text: 'Claims & Subclaims', link: '/claims/index' },
-              { text: 'Create a Claim', link: '/claims/create' },
-              { text: 'Permissions', link: '/claims/permissions' },
-              { text: 'Claim Options', link: '/claims/options' },
-              { text: 'Trusted Players', link: '/claims/trust' },
-              { text: 'Other Claim Info', link: '/claims/other' }
+              { text: 'Claims & Subclaims', link: '/pages/claims/index' },
+              { text: 'Create a Claim', link: '/pages/claims/create' },
+              { text: 'Permissions', link: '/pages/claims/permissions' },
+              { text: 'Claim Options', link: '/pages/claims/options' },
+              { text: 'Trusted Players', link: '/pages/claims/trust' },
+              { text: 'Other Claim Info', link: '/pages/claims/other' }
         ]
       },
       {
         text: 'RMT Menu',
         items: [
-              { text: 'Main Menu', link: '/menu/index' },
-              { text: 'Commands', link: '/menu/commands' },
-              { text: 'Homes', link: '/menu/homes' },
-              { text: 'Warps', link: '/menu/warps' }
+              { text: 'Main Menu', link: '/pages/menu/index' },
+              { text: 'Commands', link: '/pages/menu/commands' },
+              { text: 'Homes', link: '/pages/menu/homes' },
+              { text: 'Warps', link: '/pages/menu/warps' },
+              { text: 'Player Warps', link: '/pages/menu/playerWarps' }
+        ]
+      },
+      {
+        text: 'Moderation',
+        items: [
+              { text: 'General', link: '/pages/mod/index' },
+              { text: 'InvSee', link: '/pages/mod/invsee' },
+              { text: 'Whitelist', link: '/pages/mod/whitelist' },
+              { text: 'Mod Actions', link: '/pages/mod/modActions' }
+        ]
+      },
+      {
+        text: 'Admin',
+        items: [
+              { text: 'General', link: '/pages/admin/index' }
         ]
       }
     ],
@@ -52,28 +68,44 @@ export default defineConfig({
       {
         text: 'Main',
         items: [
-          { text: 'Getting Started', link: '/main/index' },
-          { text: 'Terminology', link: '/main/termanology' }
+          { text: 'Getting Started', link: '/pages/main/index' },
+          { text: 'Terminology', link: '/pages/main/termanology' }
         ]
       },
       {
         text: 'Claim System',
         items: [
-              { text: 'Claims & Subclaims', link: '/claims/index' },
-              { text: 'Create a Claim', link: '/claims/create' },
-              { text: 'Permissions', link: '/claims/permissions' },
-              { text: 'Claim Options', link: '/claims/options' },
-              { text: 'Trusted Players', link: '/claims/trust' },
-              { text: 'Other Claim Info', link: '/claims/other' }
+              { text: 'Claims & Subclaims', link: '/pages/claims/index' },
+              { text: 'Create a Claim', link: '/pages/claims/create' },
+              { text: 'Permissions', link: '/pages/claims/permissions' },
+              { text: 'Claim Options', link: '/pages/claims/options' },
+              { text: 'Trusted Players', link: '/pages/claims/trust' },
+              { text: 'Other Claim Info', link: '/pages/claims/other' }
         ]
       },
       {
         text: 'RMT Menu',
         items: [
-              { text: 'Main Menu', link: '/menu/index' },
-              { text: 'Commands', link: '/menu/commands' },
-              { text: 'Homes', link: '/menu/homes' },
-              { text: 'Warps', link: '/menu/warps' }
+              { text: 'Main Menu', link: '/pages/menu/index' },
+              { text: 'Commands', link: '/pages/menu/commands' },
+              { text: 'Homes', link: '/pages/menu/homes' },
+              { text: 'Warps', link: '/pages/menu/warps' },
+              { text: 'Player Warps', link: '/pages/menu/playerWarps' }
+        ]
+      },
+      {
+        text: 'Moderation',
+        items: [
+              { text: 'General', link: '/pages/mod/index' },
+              { text: 'InvSee', link: '/pages/mod/invsee' },
+              { text: 'Whitelist', link: '/pages/mod/whitelist' },
+              { text: 'Mod Actions', link: '/pages/mod/modActions' }
+        ]
+      },
+      {
+        text: 'Admin',
+        items: [
+              { text: 'General', link: '/pages/admin/index' }
         ]
       }
     ],

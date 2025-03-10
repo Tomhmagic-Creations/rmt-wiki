@@ -1,10 +1,10 @@
 ---
 prev: 
     text: 'Getting Started'
-    link: '/main/index'
+    link: 'pages/main/index'
 next: 
     text: 'Claims'
-    link: '/claims/index'
+    link: 'pages/claims/index'
 ---
 
 # Terminology

@@ -2,7 +2,7 @@
 prev: false
 next: 
     text: 'Terminology'
-    link: '/main/termanology'
+    link: 'pages/main/termanology'
 ---
 
 # Getting Started

@@ -1,10 +1,10 @@
 ---
 prev: 
     text: 'Terminology'
-    link: '/main/termanology'
+    link: 'pages/main/termanology'
 next: 
     text: 'Create a Claim'
-    link: '/claims/create'
+    link: 'pages/claims/create'
 ---
 
 # Claims
