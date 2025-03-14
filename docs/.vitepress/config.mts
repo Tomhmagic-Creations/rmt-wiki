@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Realm Management Tool Wiki",
+  title: `Realm Management Tool Wiki`,
   description: "A wiki for the Realm Management Tool Add-On created by Tomhmagic Creations",
   lastUpdated: true,
 
