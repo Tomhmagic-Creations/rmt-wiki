@@ -33,4 +33,4 @@ features:
 ---
 
 ---
-<img title="a title" alt="Alt text" src="/assets/images/MarketingKeyArt.png">
+<img title="RMT Art" alt="RMT Art" src="/assets/images/MarketingKeyArt.png">

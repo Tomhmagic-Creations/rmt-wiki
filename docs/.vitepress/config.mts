@@ -23,7 +23,8 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Installing', link: '/pages/main/index' },
-          { text: 'Terminology', link: '/pages/main/termanology' }
+          { text: 'Roadmap', link: '/pages/main/roadmap' },
+          { text: 'Blocks & Items', link: '/pages/main/blocksItems' }
         ]
       },
       {
@@ -59,7 +60,15 @@ export default defineConfig({
       {
         text: 'Admin',
         items: [
-              { text: 'General', link: '/pages/admin/index' }
+              { text: 'Manage Players', link: '/pages/admin/index' },
+              { text: 'Manage Spawn', link: '/pages/admin/manageSpawn' },
+              { text: 'Manage Warps', link: '/pages/admin/manageWarps' },
+              { text: 'Manage Ranks', link: '/pages/admin/manageRanks' },
+              { text: 'Edit Announcements', link: '/pages/admin/announcements' },
+              { text: 'Admin Claims', link: '/pages/admin/claims' },
+              { text: 'Edit Main Menu', link: '/pages/admin/mainMenu' },
+              { text: 'Settings', link: '/pages/admin/settings' },
+              
         ]
       }
     ],
@@ -69,7 +78,8 @@ export default defineConfig({
         text: 'Main',
         items: [
           { text: 'Getting Started', link: '/pages/main/index' },
-          { text: 'Terminology', link: '/pages/main/termanology' }
+          { text: 'Roadmap', link: '/pages/main/roadmap' },
+          { text: 'Blocks & Items', link: '/pages/main/blocksItems' }
         ]
       },
       {
@@ -105,7 +115,14 @@ export default defineConfig({
       {
         text: 'Admin',
         items: [
-              { text: 'General', link: '/pages/admin/index' }
+          { text: 'Manage Players', link: '/pages/admin/index' },
+          { text: 'Manage Spawn', link: '/pages/admin/manageSpawn' },
+          { text: 'Manage Warps', link: '/pages/admin/manageWarps' },
+          { text: 'Manage Ranks', link: '/pages/admin/manageRanks' },
+          { text: 'Edit Announcements', link: '/pages/admin/announcements' },
+          { text: 'Admin Claims', link: '/pages/admin/claims' },
+          { text: 'Edit Main Menu', link: '/pages/admin/mainMenu' },
+          { text: 'Settings', link: '/pages/admin/settings' },
         ]
       }
     ],
