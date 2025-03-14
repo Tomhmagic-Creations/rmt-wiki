@@ -1,26 +1,18 @@
 ---
 prev: 
-    text: 'Whitelist'
-    link: 'pages/mod/whitelist'
+    text: 'Mod Actions'
+    link: 'pages/mod/modActions'
 next: 
-    text: 'Manage Spawn'
-    link: 'pages/admin/manageSpawn'
+    text: 'Manage Players'
+    link: 'pages/admin/managePlayers'
 ---
 
-# Manage Players
+# Systems
 
-This menu allows you to manage players:
+There are a few different systems that feature in the Add-On that are not related to the menu or items. Here is where they are explained:
 
-## Online and Offline Player Edits:
-These options are available to edit for both online and offline players.
+## Anti-Xray
+The Add-On features anti-xray which prevents most Bedrock anti-xray methods. This has no effect on performance and is handled on the client pack.
 
-- **Give Rank**: Allows you to select a rank from the list of ranks.
-- **Remove Rank**: Allows you to remove a rank from the player.
-- **Edit Claim Chunks**: Allows you to add or remove claim chunks from a player; using negative numbers removes, and positive numbers adds.
-
-## Online Player Edits Only:
-These options are only available for online players.
-
-- **Heal Player**: Puts the player to full health.
-- **Feed Player**: Puts the player to full hunger and saturation.
-- **Change Gamemode**: Allows you to change the players' gamemode.
+## AFK System
+There is an AFK system that sets players to AFK if they idle for too long. This is to prevent playtime stacking up or a player abusing claim chunk rewards. There are options in the settings to change how long the system waits before setting an idle player to AFK status. You can choose to include Mods in the AFK system, prevent monsters from spawning around AFK players (this is not just to protect them, but can be used to prevent AFK mob farming), or kick players after a set amount of time. Admins are not affected by the AFK system, and if you set Mods to be affected by the AFK system, they will not be kicked.

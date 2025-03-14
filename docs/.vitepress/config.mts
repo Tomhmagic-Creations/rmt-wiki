@@ -60,7 +60,8 @@ export default defineConfig({
       {
         text: 'Admin',
         items: [
-              { text: 'Manage Players', link: '/pages/admin/index' },
+              { text: 'Systems', link: '/pages/admin/index' },
+              { text: 'Manage Players', link: '/pages/admin/managePlayers' },
               { text: 'Manage Spawn', link: '/pages/admin/manageSpawn' },
               { text: 'Manage Warps', link: '/pages/admin/manageWarps' },
               { text: 'Manage Ranks', link: '/pages/admin/manageRanks' },
@@ -115,7 +116,8 @@ export default defineConfig({
       {
         text: 'Admin',
         items: [
-          { text: 'Manage Players', link: '/pages/admin/index' },
+          { text: 'Systems', link: '/pages/admin/index' },
+          { text: 'Manage Players', link: '/pages/admin/managePlayers' },
           { text: 'Manage Spawn', link: '/pages/admin/manageSpawn' },
           { text: 'Manage Warps', link: '/pages/admin/manageWarps' },
           { text: 'Manage Ranks', link: '/pages/admin/manageRanks' },
