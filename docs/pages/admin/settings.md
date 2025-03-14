@@ -98,3 +98,9 @@ There are multiple different settings to change how you want the Server to run.
 - **AFK Kick**  
   Time in minutes before an AFK player is kicked, set to 0 to disable.  
   **Warning**: If using this Add-On on a local world (not a realm), kicks require the world to be restarted before the player can rejoin.
+
+- **Mod Gamemode**  
+If Moderators can change their gamemode between creative and survival.
+
+- **Spy Creative**  
+Spy mode puts player in creative and back to survival when turned off.
