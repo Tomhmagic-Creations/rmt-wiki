@@ -138,3 +138,7 @@ The hologram edit item allows you to edit an already placed hologram. See above 
 - 1x Sign
 - 1x Redstone
 - 1x Stick
+
+
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oXZy5YAgGDo?si=Bb5bRaym1QaNjmeR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

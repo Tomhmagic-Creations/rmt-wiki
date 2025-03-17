@@ -2,6 +2,9 @@
 
 The manage world option allows you to change any of the world gamerules from the menu. This is handy if you want to give admins the Admin rank without giving them OP.
 
+### Manage World Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=c0sK0WRQiC3OozX2&amp;start=857" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Settings
 There are multiple different settings to change how you want the Server to run.
 
@@ -13,6 +16,9 @@ There are multiple different settings to change how you want the Server to run.
 
 - **RTP Radius**  
   Radius in blocks for RTP.
+
+- **RTP Cooldown**
+ Cooldown in seconds for all RTPs: cooldown is individual to each dimension.
 
 - **RTP in Nether**  
   Allow RTP in Nether.
@@ -104,3 +110,25 @@ If Moderators can change their gamemode between creative and survival.
 
 - **Spy Creative**  
 Spy mode puts player in creative and back to survival when turned off.
+
+- **Disable Spawn**
+Disable the spawn command. This doesn't prevent you setting First Spawn for new players. Just disables the spawn button in the main menu.
+
+- **Disable Warps**
+Disable all warps from the menu. This doesn't delete or stop from from adding more, just removes the buttom from the main menu.
+
+- **Disable TPA/TPHERE**
+Disable TPA/TPHERE commands
+
+- **Disable RTP**
+Disable RTP command
+
+- **Disable TP Back**
+Disable TP Back command
+
+- **Disable Death Back**
+Disable Death Back command
+
+## Tutorial
+### Settings Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=67uWtjdJhxdinnvX&amp;start=1391" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

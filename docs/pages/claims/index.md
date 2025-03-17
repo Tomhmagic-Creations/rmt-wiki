@@ -44,3 +44,8 @@ Here we have the same Overworld claim, however 2 Claim Chunks have been marked i
 ## Claim Chunks
 
 Claim chunks are Minecraft chunks you can claim. You are given <span style="color: green;">**10**</span> Claim Chunks when you start, and you gain <span style="color: green;">**1**</span> Claim Chunk every <span style="color: green;">**60**</span> minutes.
+
+
+## Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCRWqv-WTo0?si=_YWeSvdsvw5qUALs&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

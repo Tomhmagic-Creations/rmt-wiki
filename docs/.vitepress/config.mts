@@ -69,6 +69,7 @@ export default defineConfig({
               { text: 'Admin Claims', link: '/pages/admin/claims' },
               { text: 'Edit Main Menu', link: '/pages/admin/mainMenu' },
               { text: 'Settings', link: '/pages/admin/settings' },
+              { text: 'Scriptevents', link: '/pages/admin/scriptevent' },
               
         ]
       }
@@ -125,6 +126,7 @@ export default defineConfig({
           { text: 'Admin Claims', link: '/pages/admin/claims' },
           { text: 'Edit Main Menu', link: '/pages/admin/mainMenu' },
           { text: 'Settings', link: '/pages/admin/settings' },
+          { text: 'Scriptevents', link: '/pages/admin/scriptevent' },
         ]
       }
     ],

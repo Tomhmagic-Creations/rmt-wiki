@@ -43,3 +43,6 @@ On clicking the button, you will be able to select a player. This feature uses o
 ## Punishments
 
 This feature allows you to view a player's list of punishments. Once clicking the button and selecting a player to view, all punishments will be displayed.
+
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=a3nf0QsUv9SRZHAC&amp;start=514" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

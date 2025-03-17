@@ -24,3 +24,6 @@ Due to limitations, the enderchest can only show names and quantities and not it
 **Clear Enderchest** - This will clear a player’s Enderchest
 
 **Clear All** - This will clear all of the above for the player
+
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=X3Owakp2MjgbskA7&amp;start=178" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Join us on Discord
       link: https://discord.gg/tomhmagic
+    - theme: alt
+      text: Tutorials
+      link: https://www.youtube.com/playlist?list=PLvDJ1A34td1hrydDtOBtkqe4xYaP3m7nB
 
 features:
   - icon:

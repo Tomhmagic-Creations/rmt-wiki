@@ -28,3 +28,5 @@ This button allows you to teleport to a player chosen from the online list. Simi
 
 This button allows you to teleport a player chosen from the online list to you. Similar to the TPHERE, however, there is no need for the other player to accept the teleport or any teleport cooldown.
 
+## Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=nLCHHhatcnX4NO_f&amp;start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
