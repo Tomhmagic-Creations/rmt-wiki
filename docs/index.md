@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Get the Realm Management Tool Add-On
-      link: https://www.minecraft.net/en-us/marketplace/pdp?id=ebb2049c-4662-4caa-82b9-e98932b393da
+      link: https://www.minecraft.net/en-us/marketplace/pdp?id=a7594594-be5f-4de2-b761-2f1732152ab9
     - theme: alt
       text: Join us on Discord
       link: https://discord.gg/tomhmagic
