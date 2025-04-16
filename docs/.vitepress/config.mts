@@ -23,6 +23,7 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Installing', link: '/pages/main/index' },
+          { text: 'Changelog', link: '/pages/main/Changelog' },
           { text: 'Roadmap', link: '/pages/main/roadmap' },
           { text: 'Blocks & Items', link: '/pages/main/blocksItems' }
         ]
@@ -80,6 +81,7 @@ export default defineConfig({
         text: 'Main',
         items: [
           { text: 'Getting Started', link: '/pages/main/index' },
+          { text: 'Changelog', link: '/pages/main/Changelog' },
           { text: 'Roadmap', link: '/pages/main/roadmap' },
           { text: 'Blocks & Items', link: '/pages/main/blocksItems' }
         ]

@@ -33,7 +33,7 @@ Used for opening the main RMT menu. Use the item to open the menu.
   <h2 id="claim-flag" style="margin: 0;">Claim Flag</h2>
 </div>
 
-Used for starting or expanding a claim. The item is not removed when used and cannot stack.
+Used for starting or expanding a claim. The item is not removed when used and cannot stack. There is a 1 second cooldown between uses.
 
 ### Recipe - Shapeless
 **Ingredients:**
@@ -46,7 +46,7 @@ Used for starting or expanding a claim. The item is not removed when used and ca
   <h2 id="admin-claim-flag" style="margin: 0;">Admin Claim Flag</h2>
 </div>
 
-This item is used for starting and expanding Admin Claims. This item cannot be crafted and is obtained in the Admin menu. This item cannot be used by a player without either the Admin Rank or “op” tag. If this item is dropped, it will be deleted.
+This item is used for starting and expanding Admin Claims. This item cannot be crafted and is obtained in the Admin menu. This item cannot be used by a player without either the Admin Rank or “op” tag. If this item is dropped, it will be deleted. There is a 1 second cooldown between uses.
 
 <div style="display: flex; align-items: center;">
   <img src="/assets/images/items/chunk_viewer.png" width="50" height="50" style="margin-left: 10px; margin-right: 10px; margin-top: 20px;">

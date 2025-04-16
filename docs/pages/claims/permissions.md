@@ -10,7 +10,7 @@ There are multiple different types of permissions; the current sets are:
 
 **Break** - Breaking blocks
 
-**Use Item** - Using items on blocks, such as stripping wood, creating dirt paths or farmland etc
+**Use Item** - Using itemsin your hand an on blocks, such as stripping wood, creating dirt paths or farmland, loading a crossbow. This will also cancel custom items from other Add-Ons, the RMT Tool and Chunk Viewer bypass this permission.
 
 **Storage Access** - Able to interact with storage blocks:
 - Chest
