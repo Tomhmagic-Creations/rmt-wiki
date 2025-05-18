@@ -1,3 +1,16 @@
-# Player Warps
+# 🚀 Player Warps
 
-Like Homes and Warps, Player Warps allow players to create public warps that other players can use. This can be for a range of different types such as farming, mining, shops, mob farms or anything. All players are allowed to create <span style="color: green;">**5**</span> Player Warps.
+Player Warps allow players to create public teleportation points that other players can access. These can be used for various purposes such as:
+
+* Farming areas
+* Mining spots
+* Shops
+* Mob farms
+* Community builds
+
+---
+
+## ⚡ Warp Limits
+
+* Each player can create up to <span style="color: green;">**5**</span> Player Warps.
+* Warps are public and accessible to other players, making them ideal for sharing key locations.

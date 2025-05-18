@@ -1,7 +1,23 @@
-# Whitelist
-This allows moderators to add and remove players from the whitelist. If admins have turned on the whitelist, this will only allow the players (plus admins and mods) on the whitelist to join the Server.
+# ✅ Whitelist
 
-On clicking the button, this will show the Manage Whitlist menu. There is a button to add players to the whitelist. Clicking this will give you an input form to input the players' GameTag; make sure you enter this correctly.  If there are players on the whitelist, a remove player button will also show on the menu. Clicking this will show a menu with all the whitelist players as a button. Clicking a player on the remove player menu will remove that player's name from the whitelist.
+The Whitelist feature allows moderators to control player access to the server by managing a list of approved players. If the whitelist is enabled by admins, only players on the list (plus Admins and Mods) can join the server.
 
-## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=8DKbC8bCYUo7Shyx&amp;start=434" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+## 🛠️ Managing the Whitelist
+
+* **Add Player to Whitelist:**
+
+  * Opens an input form to enter the player's GameTag.
+  * Ensure the GameTag is entered correctly to avoid issues.
+
+* **Remove Player from Whitelist:**
+
+  * Displays a menu of all whitelisted players.
+  * Clicking a player's name will remove them from the whitelist.
+
+---
+
+## 🎥 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=8DKbC8bCYUo7Shyx&amp;start=434" title="Whitelist Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

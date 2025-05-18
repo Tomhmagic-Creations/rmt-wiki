@@ -7,45 +7,46 @@ next:
     link: 'pages/claims/create'
 ---
 
-# Claims
+# 🛡️ Claims
 
-Claims are a way to protect land, buildings, chests, and anything else inside of them. Claims are a set of permissions, options and trusted members associated with that dimensions’ “claim”. Unless otherwise set by admins, each player can create one claim in each of the three Minecraft dimensions (Overworld, The Nether and The End). If you do not own any claims, the Manage Claim section in the RMT menu will not show.
-
----
-
-## What exacly is a claim?
-Let's look at the Overworld. If we create a "Claim" this will be our "Overworld Claim", any chunks we add to this claim will all follow the the permissions and options of this claim. Regardless if all the chunks are together of spread a part, they all come under the "Overworld Claim".
+Claims allow players to protect land, buildings, chests, and other valuable structures by assigning permissions, options, and trusted members to specific areas. Each player can create one main claim per dimension (Overworld, Nether, End). If a player has no active claims, the Manage Claim section in the RMT menu will not appear.
 
 ---
 
-## Subclaims
-Subclaims are a way to assign a group of chunks (not necessarily together) their own set of permissions, trusted players and options. Subclaim chunks do not need to be next to each other, but subclaims are limited to their main claims dimension. 
+## ❓ What is a Claim?
 
-You can create sub-claims in the RMT menu under Manage Claims. You give your subclaim a unique name, and you can assign claim chunks to it. Claim chunks can only be assigned to one subclaim at a time; subclaim permissions, trusted players, and options override the main claim. Subclaims are a good way to give other players their own area within your claim to build and play in, without having to give them access to everything.
+A claim is a designated area in a dimension where you have control over permissions and trusted players. In the Overworld, for instance, you can create an "Overworld Claim," which applies to all claimed chunks in that dimension, even if they are not adjacent. All claimed chunks will follow the same core permissions and options.
 
 ---
 
-## Claim Visualisation
+## 🔄 Subclaims
 
+Subclaims allow you to assign specific permissions, trusted players, and options to a group of chunks within a main claim. Subclaim chunks do not need to be adjacent but must be in the same dimension as the main claim.
 
+* You can create Subclaims in the RMT menu under Manage Claims.
+* Each Subclaim can have its own permissions, trusted players, and options that override the main claim.
+* Subclaims are useful for assigning specific areas to other players without granting them access to the entire claim.
 
-::: details Overworld Claim Example
-<img src="/assets/images/claims/claim.png" alt="claims" style="width:500px;"/>
-If we look at the above image, here are 8 Claim Chunks claimed in the Overworld. They are no joined together but they will all use the same core permissions, options and trusted players.
+---
+
+## 🗺️ Claim Visualization
+
+::: details Overworld Claim Example <img src="/assets/images/claims/claim.png" alt="claims" style="width:500px;"/>
+In the above image, 8 chunks are claimed in the Overworld. They are not connected but share the same core permissions, options, and trusted players.
 :::
 
-::: details Overworld Subclaim Example
-<img src="/assets/images/claims/subclaim.png" alt="claims" style="width:500px;"/>
-Here we have the same Overworld claim, however 2 Claim Chunks have been marked in red, these are added to one Subclaim Group, these 2 claims, dispite being apart will follow their Subclaim permissions, options and trusted players.
+::: details Overworld Subclaim Example <img src="/assets/images/claims/subclaim.png" alt="claims" style="width:500px;"/>
+In this example, 2 chunks are highlighted in red as part of a Subclaim. Despite being apart, they will follow their Subclaim-specific permissions, options, and trusted players.
 :::
 
 ---
 
-## Claim Chunks
+## 📦 Claim Chunks
 
-Claim chunks are Minecraft chunks you can claim. You are given <span style="color: green;">**10**</span> Claim Chunks when you start, and you gain <span style="color: green;">**1**</span> Claim Chunk every <span style="color: green;">**60**</span> minutes.
+Claim chunks are individual Minecraft chunks (16x16xMaxYLevel) that you can claim. You start with <span style="color: green;">**10**</span> Claim Chunks and gain <span style="color: green;">**1**</span> Claim Chunk every <span style="color: green;">**60 minutes**</span>.
 
+---
 
-## Tutorial
+## 🎥 Tutorial
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bCRWqv-WTo0?si=_YWeSvdsvw5qUALs&amp;start=197" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

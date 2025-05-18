@@ -1,13 +1,16 @@
-# Roadmap
+# 🛠️ Roadmap
 
-## Interactive Commands
+## 🛠️ Interactive Commands
+
 <Badge type="warning" text="In Progress" />
 ### Planned Features:
 - Interactive signs and holograms.
 - Hit or click functions for triggering events.
 - Custom commands triggered by player actions.
 
-## Kits
+
+## 📦 Kits
+
 <Badge type="warning" text="In Progress" />
 ### Planned Features:
 - Kits with claim triggers:
@@ -16,39 +19,48 @@
   - Score-based triggers.
 - Cooldowns for kit usage.
 
-## Advanced Invsee
+
+## 🔍 Advanced Invsee
+
 <Badge type="warning" text="In Progress" />
 ### Planned Features:
 - Advanced inventory viewing.
 - Offline player inventory viewing.
 - Offline player inventory editing.
 
-## Player Rewards
-### Planned Features:
-- Rewards for playtime.
-- Customizable rewards.
 
-## Rank Perks
+## 🎁 Player Rewards
+
 ### Planned Features:
-- Features assignable to ranks.
-- Ability to set custom permissions for ranks.
+
+* Rewards for playtime.
+* Customizable rewards.
+
+
+## 🏆 Rank Perks
+
+### Planned Features:
+
+* Assignable features for ranks.
+* Custom permissions for ranks.
 
 ---
 
-::: info Note
-**The following features require Scripting API updates to be implemented, which are not yet available. There is no ETA or guarantee that these features will be added. However, as they are part of the beta API, we have planned features using them should they release to stable.**
+::: info ⚡️ Note
+The following features depend on future Scripting API updates. There is no confirmed release date, but these features are planned to be implemented if and when the required APIs are made stable.
 :::
+## 💬 Chat Enhancements
 
-## Chat Enhancements
+
+
 <Badge type="danger" text="Pending Scripting API Updates" />
 ### Planned Features:
 - Custom chat channels and party chats.
-- Chat ranks for player hierarchy.
-- Custom chat commands for advanced chat functionality.
+- Player hierarchy chat ranks.
+- Custom chat commands.
 - Mute system for player moderation.
 
----
 
-**There are a ton of different features that could be added!**  
-If you want to get involved to help shape this Add-on and request new features, please join the discord:  
+**Want to request new features?**
+Join the community on Discord and help shape the future of the Add-On:
 [discord.gg/tomhmagic](https://discord.gg/tomhmagic)

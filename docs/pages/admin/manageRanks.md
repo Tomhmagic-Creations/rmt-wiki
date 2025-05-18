@@ -1,28 +1,37 @@
-# Manage Ranks
+# 🏆 Manage Ranks
 
-This section allows you to add, edit, and remove custom ranks. Ranks are currently a cosmetic feature that is displayed next to a player's name. Other than Admin and Moderator ranks, these are reserved for the Admin and Mod features.
+The Manage Ranks section allows Admins to add, edit, and remove custom ranks. Ranks are primarily cosmetic and are displayed next to a player's name. Admin and Moderator ranks are reserved for admin/mod features and cannot be deleted.
 
-## Add/Edit Ranks
-When clicking on Add Rank or Edit RANKNAME, you will see an input form to add/edit the values of the new or existing rank. Admin and Moderator ranks cannot be deleted, and you can only edit the colour and priority in the Manage Rank menu. However, you can change the display name in the Settings.
+---
 
-Here are the input settings for Adding/Editing Ranks:
+## ➕ Add/Edit Ranks
 
-- **Rank Name**: This is the display name of the rank and will also be stored (without spaces) as its ID. This must be unique.
-- **Priority**: This is a unique number to give the system a way to prioritise ranks in the name display; the rank with the highest priority will be the rank shown next to the player's name. No ranks can share the same priority. The priority of Admin and Mod ranks doesn’t have to be the highest and won’t affect their permissions.
-- **Rank Colour**: This is the colour of the rank when displayed next to a player's nametag.
-- **Give Type**: Ranks can be given in different ways:
-    - **Manual**: This is given manually by admins through the Manage Players section.
-    - **Playtime**: This is given automatically when a player reaches the given amount of playtime in seconds.
-    - **Player Kills**: This is given automatically when a player reaches the given amount of player kills.
-    - **Monster Kills**: This is given automatically when a player reaches a given amount of monster kills.
-    - **Deaths**: This is given automatically when a player reaches a given amount of deaths.
-    - **Scoreboard**: This is given automatically when a player reaches the given amount for the given scoreboard.
-- **Give Value**: If the give type is not manual, this will be the value needed to give the rank for player/monster kills, playtime, deaths, and score.
-- **Scoreboard**: If using the give type of scoreboard, this will be the name of the scoreboard objective.
+When adding or editing a rank, you will be presented with input settings to configure the rank. Admin and Moderator ranks can only have their color and priority edited.
 
-## Delete Ranks
-All ranks other than Admin and Moderator can be deleted.
+### ⚙️ Rank Settings:
 
+* **Rank Name:** The display name of the rank (no spaces, must be unique).
+* **Priority:** A unique number to determine rank display order. Higher priority ranks will override lower ones.
+* **Rank Colour:** The color displayed next to the player's name.
+* **Give Type:** How the rank is assigned:
 
-## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=M-wggcySG7kKWWTm&amp;start=883" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  * **Manual:** Assigned manually through the Manage Players menu.
+  * **Playtime:** Assigned when a player reaches a set playtime in seconds.
+  * **Player Kills:** Assigned based on player kills.
+  * **Monster Kills:** Assigned based on monster kills.
+  * **Deaths:** Assigned based on death count.
+  * **Scoreboard:** Assigned based on a specific scoreboard value.
+* **Give Value:** The target value for non-manual ranks (e.g., playtime seconds, kills).
+* **Scoreboard:** The name of the scoreboard objective if using the scoreboard give type.
+
+---
+
+## ❌ Delete Ranks
+
+* Only non-admin and non-moderator ranks can be deleted.
+
+---
+
+## 🎥 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=M-wggcySG7kKWWTm&amp;start=883" title="Manage Ranks Tutorial" frameborder="0" allow="accelerometer; autoplay;

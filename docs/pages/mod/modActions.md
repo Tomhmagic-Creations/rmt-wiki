@@ -1,48 +1,66 @@
-# Moderation Actions
+# ⚖️ Moderation Actions
 
-Here are all the actions you can do in the Add-On regarding moderation, such as warn, kick and ban.
+Moderators have access to a range of actions to manage player behavior and enforce server rules. This section covers all available moderation actions, including warnings, kicks, and bans.
 
-## Warn
+---
 
-The warning system allows moderators to warn players for actions that may break the Server rules. On clicking this button, you will be able to select a player from either the online or all list. 
+## ⚠️ Warn
 
-The warn system supports warning offline players; if a player is offline, they will receive the warn message when they log back in. 
+* Allows moderators to warn players for rule violations.
+* Warnings can be sent to both online and offline players.
+* If the player is offline, they will receive the warn message upon logging in.
+* A text input menu allows the moderator to enter a warning message (max 100 characters).
 
-When a player is selected, a text input menu will show, allowing you to write a message for your warning. The text input is limited to 100 characters.
+---
 
-## Kick
+## 🚪 Kick
 
-When clicking the kick button, a list of online players will show to select. Once you choose a player, a text input menu will show, allowing you to write a message for your kick. The text input is limited to 100 characters. The kick system is similar to the vanilla system in the way it kicks; however, like all punishment, data is stored to be able to be viewed.
+* Allows moderators to kick online players from the server.
+* Similar to the vanilla kick system but with data storage for review.
+* A text input menu allows the moderator to enter a kick message (max 100 characters).
 
-## Temp Ban
+---
 
-The temp banning system allows moderators to ban a player from a Server temporarily. We recommend always using this as a first resort unless you are 100% sure you do not want the player back; then, a permanent ban can be used.
+## ⏳ Temp Ban
 
-Once you have clicked the temp ban button, you will be able to select a player either online or offline. Once a player is chosen, you are given a temp ban input form. You must supply a “Ban Reason” and at least 1 of the duration types. You can choose a duration using days, hours and minutes. If the player is online while you ban, they will be kicked immediately. When a banned player attempts to join a Server while banned, they are kicked.
+* Temporarily bans a player for a specified duration.
+* Can be applied to both online and offline players.
+* The temp ban form requires a reason and at least one duration type (days, hours, minutes).
+* If the player is online, they are immediately kicked upon ban initiation.
+* Players attempting to join while banned will be kicked.
 
-## Ban
+---
 
-The ban is for permanent bans and should only be used if you are 100% sure you do not want the player back. 
+## 🚫 Ban
 
-Once clicking the button, you will be able to select a player on the online or offline list. Once you have chosen a player and clicked confirm on the confirmation message, the player will be permanently banned. if they are online, they will be kicked and kicked if they attempt to join the Server. 
-
-If you are using this Add-On on a realm, we suggest you also remove them from the realm member list.
+* Permanently bans a player from the server.
+* Should only be used for severe or repeat offenses.
+* A confirmation message appears before finalizing the ban.
+* If the player is online, they are immediately kicked upon ban initiation.
+* For realms, it is recommended to also remove the player from the realm member list.
 
 ::: warning
-To optimise data storage, a permanent ban will delete all data of a player other than the last permanent ban. 
+Permanent bans delete all player data except the last ban record to optimize storage.
 :::
 
 ---
 
-# Unban
+## 🔓 Unban
 
-The unban feature allows moderators to unban players from the Server. This really should be used for unbanning temp bans that you would like to end early, but will also work for permanently banned players.
+* Allows moderators to unban a player.
+* Typically used to end temp bans early but can also be used for permanent bans.
+* A search menu allows the moderator to find the player to unban.
+* If no active ban is found, a message is displayed.
 
-On clicking the button, you will be able to select a player. This feature uses our default player selection menu, so you can view offline or search for a player. If you select a player to unban who has no active bans, a message will show to tell you.
+---
 
-## Punishments
+## 📜 Punishments
 
-This feature allows you to view a player's list of punishments. Once clicking the button and selecting a player to view, all punishments will be displayed.
+* Displays a list of all punishments for a selected player.
+* Allows the moderator to delete specific punishments from the list.
 
-## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=a3nf0QsUv9SRZHAC&amp;start=514" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+## 🎥 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=a3nf0QsUv9SRZHAC&amp;start=514" title="Moderation Actions Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

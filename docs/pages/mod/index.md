@@ -7,26 +7,48 @@ next:
     link: 'pages/mod/invsee'
 ---
 
-# General Options
+# ⚙️ General Options
 
-Here are some of the general option from the Moderation menu that doesn't require their own pages. Find information of the other features for their dedicated pages on the sidebar.
+These are general moderation options available through the Moderation menu that do not require separate pages. For more information on other features, refer to their specific pages via the sidebar.
 
-## Toggle Spy Mode
+---
 
-This option lets you toggle spy mode on or off, this will make you invisible to all players including any items held in your hand and armour. By default this will set Mods to creative when turning on and back to survival when turned off, this can be disabled in the settings.
+## 🕵️‍♂️ Toggle Spy Mode
 
-## Toggle Gamemode
+* Toggles invisibility to all players, including held items and armor.
+* By default, Mods are set to Creative when Spy Mode is enabled and returned to Survival when disabled.
+* This behavior can be adjusted in settings.
 
-If this setting has been turned on by Admins, this will allow Mods to toggle between survival and creative.
+---
 
+## 🔄 Toggle Gamemode
 
-## Teleport to Player
+* If enabled by Admins, Mods can toggle between Survival and Creative modes.
 
-This button allows you to teleport to a player chosen from the online list. Similar to TPA, however, there is no need for the other player to accept the teleport or any teleport cooldown.
+---
 
-## Teleport Player to You
+## 📍 Teleport to Player
 
-This button allows you to teleport a player chosen from the online list to you. Similar to the TPHERE, however, there is no need for the other player to accept the teleport or any teleport cooldown.
+* Instantly teleport to a selected player from the online list.
+* Unlike TPA, no acceptance or cooldown is required.
 
-## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=nLCHHhatcnX4NO_f&amp;start=45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+## 📦 Teleport Player to You
+
+* Instantly teleport a selected player from the online list to your location.
+* No acceptance or cooldown is required.
+
+---
+
+## 🚫 Banned Items
+
+* Moderators can add item IDs (e.g., `minecraft:bedrock`) to a banned items list.
+* Banned items are removed from player inventories (excluding Mods and Admins).
+* If a player opens a chest, banned items are also cleared from the chest.
+
+---
+
+## 🎥 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ywPNqdHrwE?si=nLCHHhatcnX4NO_f&amp;start=45" title="General Options Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

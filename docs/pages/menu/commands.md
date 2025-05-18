@@ -1,21 +1,34 @@
-# Commands
+# 🛠️ Commands
 
-### TPA/TPHERE
-**TPA (Teleport Ask)** is to send a request to another player to teleport to them. You can send one in the RMT menu. Once the other player has accepted your request, you will teleport to them after the teleport cooldown.
-
-**TPHERE (Teleport Here)** is for you to send a request to another player for them to teleport to you. You can send one in the RMT menu. Once the other player has accepted your request, they will teleport to you after the teleport cooldown.
+The RMT Add-On provides several teleportation and movement commands to enhance gameplay and player interactions. Here are the available commands:
 
 ---
 
-### Random Teleport
-This will teleport you to a random location within <span style="color: green;">**5000**</span> blocks in your current dimension. Admins can choose to disable random teleport in The Nether and The End. Once you have clicked the button, you will teleport to a random location after the cooldown.
+## 🚀 TPA / TPHERE
+
+* **TPA (Teleport Ask):** Sends a request to another player to teleport to them. Once accepted, you will be teleported after the cooldown.
+
+* **TPHERE (Teleport Here):** Sends a request to another player to teleport to you. Once accepted, they will be teleported to you after the cooldown.
 
 ---
 
-### TP Back
-If you have teleported with an RMT teleport, such as Spawn, TPA/TPHERE, Random Teleport, Warps, etc. You are able to teleport back to the location you were before the last teleport. Once selected, you will be teleported after the cooldown.
+## 🎲 Random Teleport
+
+* Teleports you to a random location within <span style="color: green;">**5000**</span> blocks in the current dimension.
+* Admins can disable random teleport in The Nether and The End.
+* Once selected, you will be teleported after the cooldown.
 
 ---
 
-### Death Back
-Similar to TP Back, however, Death Back lets you TP back to your last death location.
+## 🔄 TP Back
+
+* Allows you to return to the location you were at before the last RMT teleport.
+* Works with Spawn, TPA/TPHERE, Random Teleport, Warps, and other RMT teleports.
+* Once selected, you will be teleported after the cooldown.
+
+---
+
+## ⚰️ Death Back
+
+* Teleports you to your last death location.
+* Similar to TP Back but specific to the last death point.

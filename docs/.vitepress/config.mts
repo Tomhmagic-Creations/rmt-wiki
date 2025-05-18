@@ -69,8 +69,22 @@ export default defineConfig({
               { text: 'Edit Announcements', link: '/pages/admin/announcements' },
               { text: 'Admin Claims', link: '/pages/admin/claims' },
               { text: 'Edit Main Menu', link: '/pages/admin/mainMenu' },
-              { text: 'Settings', link: '/pages/admin/settings' },
+              { text: 'Settings', items: [
+                { text: 'Manage World', link: '/pages/admin/settings/manageWorld' },
+                { text: 'General', link: '/pages/admin/settings/general' },
+                { text: 'Claim', link: '/pages/admin/settings/claiming' },
+                { text: 'Player Commands', link: '/pages/admin/settings/playerCommands' },
+                { text: 'AFK', link: '/pages/admin/settings/afk' },
+                { text: 'Moderation', link: '/pages/admin/settings/moderation' },
+              ] },
               { text: 'Scriptevents', link: '/pages/admin/scriptevent' },
+              
+        ]
+      },
+      {
+        text: 'API',
+        items: [
+              { text: 'Has Permission', link: '/pages/api/index' }
               
         ]
       }
@@ -127,8 +141,22 @@ export default defineConfig({
           { text: 'Edit Announcements', link: '/pages/admin/announcements' },
           { text: 'Admin Claims', link: '/pages/admin/claims' },
           { text: 'Edit Main Menu', link: '/pages/admin/mainMenu' },
-          { text: 'Settings', link: '/pages/admin/settings' },
+          { text: 'Settings', items: [
+                { text: 'Manage World', link: '/pages/admin/settings/manageWorld' },
+                { text: 'General', link: '/pages/admin/settings/general' },
+                { text: 'Claim', link: '/pages/admin/settings/claiming' },
+                { text: 'Player Commands', link: '/pages/admin/settings/playerCommands' },
+                { text: 'AFK', link: '/pages/admin/settings/afk' },
+                { text: 'Moderation', link: '/pages/admin/settings/moderation' },
+              ] },
           { text: 'Scriptevents', link: '/pages/admin/scriptevent' },
+        ]
+      },
+      {
+        text: 'API',
+        items: [
+              { text: 'Has Permission', link: '/pages/api/index' }
+              
         ]
       }
     ],

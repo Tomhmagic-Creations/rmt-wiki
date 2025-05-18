@@ -7,7 +7,7 @@ next:
     link: 'pages/claims/index'
 ---
 
-# Blocks and Items
+# 🛠️ Blocks and Items
 
 Here you will find information on all the different items and blocks from the Add-On, including recipies and how the item is used.
 

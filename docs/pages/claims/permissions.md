@@ -1,100 +1,146 @@
-# Permissions
-Each claim and subclaim has a set of permissions that can be changed. Permissions can be assigned to the following:
-None - No one other than the claim owner has access or can do this action.
-Trusted - Only trusted players and the claim owner has access or can do this action.
-All - Anyone has access or can do this action.
+# 🛡️ Permissions
 
-There are multiple different types of permissions; the current sets are:
+Claims and Subclaims have configurable permissions that can be set to control player interactions. Permissions can be assigned to the following levels:
 
-**Build** - Placing blocks
+* **None:** Only the claim owner can perform the action.
+* **Trusted:** Only trusted players and the claim owner can perform the action.
+* **Ranks:** Only trusted ranks and the claim owner can perform the action.
+* **Trusted And Ranks:** Only trusted players, ranks and the claim owner can perform the action.
+* **All:** Anyone can perform the action.
 
-**Break** - Breaking blocks
+---
 
-**Use Item** - Using itemsin your hand an on blocks, such as stripping wood, creating dirt paths or farmland, loading a crossbow. This will also cancel custom items from other Add-Ons, the RMT Tool and Chunk Viewer bypass this permission.
+## 🔑 Permission Types
 
-**Storage Access** - Able to interact with storage blocks:
-- Chest
-- Trapped Chest
-- Barrel
-- All Shulker Boxes
-- Decorated Pot
-- Ender Chest
-- Hopper
-- Dispenser
-- Dropper
-- Crafter
+### 🛠️ Build
 
-**Table Access** - Able to interact with tables:
-- Crafting Table
-- Furnace
-- Blast Furnace
-- Smoker
-- Cartography Table
-- Grindstone
-- Loom
-- Stonecutter
-- Smithing Table
-- Anvil
-- Chipped Anvil
-- Damaged Anvil
-- Enchanting Table
-- Brewing Stand
-- Beacon
-- Lectern
+* Controls the ability to place blocks.
 
-**Interactive Access** - Able to interact with interactive blocks:
-- All Buttons
-- Lever
-- Daylight Detector
-- Comparator
-- Repeater
-- All Fence Gates
-- All Trapdoors
-- All Doors
+### 🪓 Break
 
-**Respawn Block Access** - Able to interact with respawning blocks (bed/respawn anchor)
+* Controls the ability to break blocks.
 
-**Utility Access** - Able to interact with utility blocks:
-- Cauldron
-- Bell
-- Campfire
-- Soul Campfire
-- Jukebox
-- Note Block
-- Composter
-- Flower Pot
+### 🎯 Use Item
 
-**Decoration Access** - Able to interact with decoration blocks/entities:
-- Painting
-- Item Frame
-- Glow Item Frame
-- All Signs
-- All Hanging Signs
+* Allows using items in hand and on blocks (e.g., stripping wood, creating dirt paths).
+* Custom items from other Add-Ons are also affected by this permission.
+* **Exceptions:** RMT Tool and Chunk Viewer bypass this permission.
 
-**Entity Interaction** - Able to interact with entities:
-- Armor Stand
-- Minecart
-- Chest Minecart
-- Hopper Minecart
-- Command Block Minecart
-- TNT Minecart
-- Sheep
-- Cow
-- Mooshroom
+---
 
-**Misc Access** - Able to interact with misc blocks:
-- Beehive
-- Bee Nest
-- Cake
-- All Candle Cakes
-- Vault
-- All Candles
+### 📦 Storage Access
 
-**Set Home** - Able to set a home in the claim
+Allows interaction with storage blocks:
 
-**Set Player Warp** - Able to set a Player Warp in the claim
+* Chest
+* Trapped Chest
+* Barrel
+* Shulker Boxes (all colors)
+* Decorated Pot
+* Ender Chest
+* Hopper
+* Dispenser
+* Dropper
+* Crafter
 
+---
 
+### 🛠️ Table Access
 
-## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCRWqv-WTo0?si=guWJc7PsdlaWYhyj&amp;start=626" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Allows interaction with crafting and processing tables:
+
+* Crafting Table
+* Furnace, Blast Furnace, Smoker
+* Cartography Table
+* Grindstone
+* Loom
+* Stonecutter
+* Smithing Table
+* Anvils (all states)
+* Enchanting Table
+* Brewing Stand
+* Beacon
+* Lectern
+
+---
+
+### 🔄 Interactive Access
+
+Allows interaction with interactive blocks:
+
+* All Buttons
+* Lever
+* Daylight Detector
+* Comparator
+* Repeater
+* Fence Gates
+* Trapdoors
+* Doors
+
+---
+
+### 🛌 Respawn Block Access
+
+* Allows setting or using respawn points (beds, respawn anchors).
+
+---
+
+### ⚡ Utility Access
+
+Allows interaction with utility blocks:
+
+* Cauldron
+* Bell
+* Campfire, Soul Campfire
+* Jukebox
+* Note Block
+* Composter
+* Flower Pot
+
+---
+
+### 🎨 Decoration Access
+
+Allows interaction with decorative blocks and entities:
+
+* Painting
+* Item Frame, Glow Item Frame
+* Signs (all types)
+* Hanging Signs
+
+---
+
+### 🧍 Entity Interaction
+
+Allows interaction with entities:
+
+* Armor Stand
+* Minecarts (all types)
+* Sheep, Cow, Mooshroom
+
+---
+
+### 🛠️ Misc Access
+
+Allows interaction with miscellaneous blocks:
+
+* Beehive, Bee Nest
+* Cake, Candle Cakes
+* Vault
+* Candles (all colors)
+
+---
+
+### 🏠 Set Home
+
+* Allows setting a home in the claim.
+
+### 📍 Set Player Warp
+
+* Allows setting a Player Warp in the claim.
+
+---
+
+## 🎥 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCRWqv-WTo0?si=guWJc7PsdlaWYhyj&amp;start=626" title="Permissions Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,6 +1,24 @@
-# Other Claim Features
-You are able to name/rename your main dimension claims in the RMT Manage Claims menu. 
+# 🛡️ Other Claim Features
 
-You can remove single chunks from claims, but this has to start from the edge inwards to prevent creating ring claims. 
+Claims come with additional management options accessible in the RMT Manage Claims menu:
 
-You have the option to delete the whole claim, this will delete the selected dimension claim and all subclaim data.
+---
+
+### 📝 Rename Claims
+
+* You can name or rename your main dimension claims to better organize them.
+* This can be done individually for each dimension (Overworld, Nether, End).
+
+---
+
+### ❌ Removing Chunks
+
+* You can remove specific chunks from a claim.
+* Removal must start from the outer edges to prevent creating ring claims.
+
+---
+
+### 🗑️ Deleting a Claim
+
+* You can delete the entire claim for a specific dimension.
+* This action will also delete all associated subclaim data for that dimension.

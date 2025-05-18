@@ -1,11 +1,31 @@
-# Trusted Players
+# 🛡️ Trusted Players and Ranks
 
-To allow players to access your claim, build, break or whatever you want them to be able to do. You must first add them to the trusted players list, either in the main claim or subclaim/s. 
-This can be done in the RMT Manage Claim or Edit Sub Claim menus. You can choose from current online players or from the list of all players. Once a player is trusted, they are able to the actions that are set under the permissions as “Trusted”.
+Grant specific players or ranks access to perform actions within your claims or subclaims. This can be managed via the RMT Manage Claim or Edit Subclaim menus.
+
+---
+
+## 👥 Trusted Players
+
+* Add specific players to your Trusted Players list for claims or subclaims.
+* Choose from current online players or from the list of all players.
+* Trusted Players can perform actions defined under the "Trusted" permission level.
+
+---
+
+## 🏆 Trusted Ranks
+
+* Similar to Trusted Players, but applied to player ranks.
+* Adding a Trusted Rank allows anyone with that rank to pass permission checks if the permission is set to "Ranks" or "Player & Ranks".
+* Recommended for Admin claims as rank-based permissions apply to all players holding that rank.
+
+---
 
 ::: warning
-Only add players to your trust and pemissions that you trust not to break your builds or steal your items.
+Only add players and ranks you fully trust to avoid griefing or theft within your claims.
 :::
 
-## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCRWqv-WTo0?si=guWJc7PsdlaWYhyj&amp;start=626" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+## 🎥 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCRWqv-WTo0?si=guWJc7PsdlaWYhyj&amp;start=626" title="Trusted Players and Ranks Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

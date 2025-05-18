@@ -7,33 +7,32 @@ next:
     link: 'pages/menu/commands'
 ---
 
-# Realm Management Tool Menu
 
-There are lots of different buttons and features on the RMT menu. Here you'll find information of all the main player sections. For Moderation and Administration features please see thier individual sections.
+# 🛠️ Realm Management Tool Menu
+
+The RMT menu includes various buttons and features accessible to players. For Moderation and Administration features, refer to their specific sections.
 
 ---
 
-# Profile
+## 👤 Profile
 
-The profile is a place to view particular data about yourself.
+The Profile section displays key information about the player:
 
-The current list of data in the profile is:
-
-- **Join Date**: The date you joined the Server.
-- **Available Claim Chunks**: How many Claim Chunks you can currently claim.
-- **Ranks**: What ranks you currently have.
-- **Playtime**: You current total playtime on the Server.
-- **Kills**: How many player kills you have.
-- **Deaths**: How many times you have died.
-- **Monster Kills**: How many monster kills you have.
-- **Punishments**: The total punishments you have received (Warns, Kicks, and Bans)
+* **Join Date:** The date you first joined the server.
+* **Available Claim Chunks:** The number of claim chunks you can currently use.
+* **Ranks:** Your current ranks on the server.
+* **Playtime:** Total playtime recorded on the server.
+* **Kills:** Number of player kills.
+* **Deaths:** Number of deaths.
+* **Monster Kills:** Number of monsters killed.
+* **Punishments:** Total warnings, kicks, and bans received.
 
 ::: info
-Playtime, all kills and deaths are counted from either the start of the Server if the Add-On was installed before the Server opened. Or from the first time you joined/killed/died after the Add-On was installed
+Playtime, kills, and deaths are recorded from the time the Add-On was installed or from the server start if the Add-On was present at launch.
 :::
 
 ---
 
-# Spawn
+## 🏠 Spawn
 
-The spawn button in the RMT menu will teleport you to spawn. The spawn can be set by Admins or will default to the world spawn point. When you first log into a Server for the first time, Admins have the option to set a First Spawn Point, which is separate from the Spawn.
+The Spawn button in the RMT menu teleports the player to the designated spawn point. Admins can set the spawn point or it will default to the world spawn point.Admins can set a separate First Spawn Point for new players. This is different from the regular spawn location.

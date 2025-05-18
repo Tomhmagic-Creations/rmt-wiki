@@ -1,19 +1,34 @@
-# Manage Spawn
+# 🛠️ Manage Spawn
 
-This menu allows you to manage all the different types of spawn for the world or realm.
+The Manage Spawn menu allows Admins to set and manage various spawn points for the world or realm, including default, custom, and first spawn locations.
 
-## Set Default Spawn
-Clicking this will set the vanilla world default spawn to your location.
+---
 
-## Set Custom Spawn
-Clicking this will set a custom spawn at your location, rotation, and head rotation (where you are looking).
+## 🌍 Set Default Spawn
 
-The Default and Custom spawns are used for the Spawn button in the RMT menu. If a custom spawn is not set, the default spawn is used.
+* Sets the **vanilla world default spawn** to your current location.
 
-## Set First Spawn
-This option is to set a custom first spawn where new players will spawn. Clicking this will set the spawn at your location, rotation, and head rotation (where you are looking).
+---
 
-If you have a Custom and/or First Spawn, then buttons for each will appear at the bottom to delete; clicking these buttons will delete the selected spawn.
+## 🎯 Set Custom Spawn
 
-## Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=2GbN3llZR_8e_cgy&amp;start=352" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+* Sets a **custom spawn point** based on your current location, rotation, and head rotation.
+* The custom spawn is used for the RMT Spawn button. If no custom spawn is set, the default spawn is used.
+
+---
+
+## 🚀 Set First Spawn
+
+* Sets a custom **first spawn point** for new players, based on your current location, rotation, and head rotation.
+
+---
+
+## ❌ Delete Spawn Points
+
+* If a Custom or First Spawn has been set, options to **delete these spawns** will appear at the bottom of the menu.
+
+---
+
+## 🎥 Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=2GbN3llZR_8e_cgy&amp;start=352" title="Manage Spawn Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-ori
