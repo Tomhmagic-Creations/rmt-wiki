@@ -31,4 +31,5 @@ The Manage Spawn menu allows Admins to set and manage various spawn points for t
 
 ## 🎥 Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=2GbN3llZR_8e_cgy&amp;start=352" title="Manage Spawn Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-ori
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=2GbN3llZR_8e_cgy&amp;start=352" title="Manage Spawn Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
