@@ -34,4 +34,4 @@ When adding or editing a rank, you will be presented with input settings to conf
 
 ## 🎥 Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=M-wggcySG7kKWWTm&amp;start=883" title="Manage Ranks Tutorial" frameborder="0" allow="accelerometer; autoplay;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9dQegArmWI?si=M-wggcySG7kKWWTm&amp;start=883" title="Manage Ranks Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
