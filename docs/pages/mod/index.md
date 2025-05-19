@@ -15,37 +15,37 @@ These are general moderation options available through the Moderation menu that 
 
 ## 🕵️‍♂️ Toggle Spy Mode
 
-* Toggles invisibility to all players, including held items and armor.
-* By default, Mods are set to Creative when Spy Mode is enabled and returned to Survival when disabled.
-* This behavior can be adjusted in settings.
+- Toggles invisibility to all players, including held items and armor.
+- By default, Mods are set to Creative when Spy Mode is enabled and returned to Survival when disabled.
+- This behavior can be adjusted in settings.
 
 ---
 
 ## 🔄 Toggle Gamemode
 
-* If enabled by Admins, Mods can toggle between Survival and Creative modes.
+- If enabled by Admins, Mods can toggle between Survival and Creative modes.
 
 ---
 
 ## 📍 Teleport to Player
 
-* Instantly teleport to a selected player from the online list.
-* Unlike TPA, no acceptance or cooldown is required.
+- Instantly teleport to a selected player from the online list.
+- Unlike TPA, no acceptance or cooldown is required.
 
 ---
 
 ## 📦 Teleport Player to You
 
-* Instantly teleport a selected player from the online list to your location.
-* No acceptance or cooldown is required.
+- Instantly teleport a selected player from the online list to your location.
+- No acceptance or cooldown is required.
 
 ---
 
 ## 🚫 Banned Items
 
-* Moderators can add item IDs (e.g., `minecraft:bedrock`) to a banned items list.
-* Banned items are removed from player inventories (excluding Mods and Admins).
-* If a player opens a chest, banned items are also cleared from the chest.
+- Moderators can add item IDs (e.g., `minecraft:bedrock`) to a banned items list.
+- Banned items are removed from player inventories (excluding Mods and Admins).
+- If a player opens a chest, banned items are also cleared from the chest.
 
 ---
 

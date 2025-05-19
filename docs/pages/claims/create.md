@@ -10,8 +10,8 @@ Once a claim is created, it will appear in the RMT menu, allowing you to manage 
 
 You can expand a claim by placing another Claim Flag:
 
-* **Adjacent:** Place a flag next to existing claim chunks to expand.
-* **Separate Group:** Place a flag over <span style="color: green;">**10**</span> chunks away from any current claims to start a new group of chunks within the same dimension. These groups will still adhere to the main claim settings unless assigned to a subclaim.
+- **Adjacent:** Place a flag next to existing claim chunks to expand.
+- **Separate Group:** Place a flag over <span style="color: green;">**10**</span> chunks away from any current claims to start a new group of chunks within the same dimension. These groups will still adhere to the main claim settings unless assigned to a subclaim.
 
 ---
 

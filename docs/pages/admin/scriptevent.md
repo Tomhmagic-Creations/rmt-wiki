@@ -6,10 +6,10 @@ The RMT Add-On includes several custom scriptevents that allow admins to interac
 
 ## 📦 Editing Claim Blocks
 
-* Command: `/scriptevent thm_rmt:editClaimBlocks [value]`
-* This command adjusts the claim blocks for a targeted player.
-* Use a positive value to **add** claim blocks or a negative value to **remove** them.
-* MUST be executed off the player you want to target
+- Command: `/scriptevent thm_rmt:editClaimBlocks [value]`
+- This command adjusts the claim blocks for a targeted player.
+- Use a positive value to **add** claim blocks or a negative value to **remove** them.
+- MUST be executed off the player you want to target
 
 **Example Usage:**
 
@@ -21,17 +21,17 @@ The RMT Add-On includes several custom scriptevents that allow admins to interac
 
 ## 📝 Resetting Holograms
 
-* Command: `/scriptevent thm_rmt:resetPlacedHolograms [playerName]`
-* Resets the hologram count for the specified player, allowing them to place more holograms.
+- Command: `/scriptevent thm_rmt:resetPlacedHolograms [playerName]`
+- Resets the hologram count for the specified player, allowing them to place more holograms.
 
 ---
 
 ## 🏆 Give Rank
 
-* Command: `/scriptevent thm_rmt:giveRank [rankName]`
-* Grants a specified rank to the targeted player.
-* Will return an error if the rank does not exist.
-* MUST be executed off the player you want to target
+- Command: `/scriptevent thm_rmt:giveRank [rankName]`
+- Grants a specified rank to the targeted player.
+- Will return an error if the rank does not exist.
+- MUST be executed off the player you want to target
 
 **Example Usage:**
 
@@ -43,9 +43,9 @@ The RMT Add-On includes several custom scriptevents that allow admins to interac
 
 ## ❌ Remove Rank
 
-* Command: `/scriptevent thm_rmt:removeRank [rankName]`
-* Removes a specified rank from the targeted player.
-* MUST be executed off the player you want to target
+- Command: `/scriptevent thm_rmt:removeRank [rankName]`
+- Removes a specified rank from the targeted player.
+- MUST be executed off the player you want to target
 
 **Example Usage:**
 

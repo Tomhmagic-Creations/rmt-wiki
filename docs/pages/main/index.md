@@ -25,14 +25,14 @@ For installation assistance, refer to the official guide here: [How to Activate 
 
 Here is a list of common terms used throughout this guide:
 
-* **RMT:** Realm Management Tool, the item used to open the main menu.
-* **Server:** Refers to the world, realm, or server where the Add-On is active. This can be a player-hosted world, a realm, or a server.
-* **Admin/Administrator:** The server owner or a designated rank by the owner, with access to admin settings.
-* **Mod/Moderator:** Players assigned the Moderator rank by admins, granting them access to moderation commands and features.
-* **Chunk:** A `16x16xMaxYLevel` area corresponding to Minecraft's chunk system.
-* **Claim:** A collection of chunks with specific permissions, settings, and trusted members.
-* **Subclaim:** A subset of a claim with its own chunks, permissions, and trusted members.
-* **Teleport Cooldown:** All teleports have a <span style="color: green;">**5-second cooldown**</span> before initiating.
+- **RMT:** Realm Management Tool, the item used to open the main menu.
+- **Server:** Refers to the world, realm, or server where the Add-On is active. This can be a player-hosted world, a realm, or a server.
+- **Admin/Administrator:** The server owner or a designated rank by the owner, with access to admin settings.
+- **Mod/Moderator:** Players assigned the Moderator rank by admins, granting them access to moderation commands and features.
+- **Chunk:** A `16x16xMaxYLevel` area corresponding to Minecraft's chunk system.
+- **Claim:** A collection of chunks with specific permissions, settings, and trusted members.
+- **Subclaim:** A subset of a claim with its own chunks, permissions, and trusted members.
+- **Teleport Cooldown:** All teleports have a <span style="color: green;">**5-second cooldown**</span> before initiating.
 
 ::: info
 Values marked in <span style="color: green;">**GREEN**</span> indicate default settings, which can be modified by Admins.

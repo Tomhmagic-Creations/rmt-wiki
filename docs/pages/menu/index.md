@@ -18,14 +18,14 @@ The RMT menu includes various buttons and features accessible to players. For Mo
 
 The Profile section displays key information about the player:
 
-* **Join Date:** The date you first joined the server.
-* **Available Claim Chunks:** The number of claim chunks you can currently use.
-* **Ranks:** Your current ranks on the server.
-* **Playtime:** Total playtime recorded on the server.
-* **Kills:** Number of player kills.
-* **Deaths:** Number of deaths.
-* **Monster Kills:** Number of monsters killed.
-* **Punishments:** Total warnings, kicks, and bans received.
+- **Join Date:** The date you first joined the server.
+- **Available Claim Chunks:** The number of claim chunks you can currently use.
+- **Ranks:** Your current ranks on the server.
+- **Playtime:** Total playtime recorded on the server.
+- **Kills:** Number of player kills.
+- **Deaths:** Number of deaths.
+- **Monster Kills:** Number of monsters killed.
+- **Punishments:** Total warnings, kicks, and bans received.
 
 ::: info
 Playtime, kills, and deaths are recorded from the time the Add-On was installed or from the server start if the Add-On was present at launch.

@@ -6,30 +6,30 @@ The Edit Announcements section allows Admins to set up custom announcements that
 
 ## ➕ Add Announcement
 
-* Enter a unique name for the announcement. This name is for admin reference only and will not be displayed publicly.
-* Once created, you will be taken to the **Edit Announcement** section to configure it.
+- Enter a unique name for the announcement. This name is for admin reference only and will not be displayed publicly.
+- Once created, you will be taken to the **Edit Announcement** section to configure it.
 
 ---
 
 ## ✏️ Edit Announcement
 
-* Modify announcement lines, frequency, or delete the announcement.
+- Modify announcement lines, frequency, or delete the announcement.
 
 ### 📜 Edit Lines
 
-* Add, remove, reorder, or modify lines of text for the announcement.
-* To create a gap between lines, add a new line and leave it empty.
+- Add, remove, reorder, or modify lines of text for the announcement.
+- To create a gap between lines, add a new line and leave it empty.
 
 ### ⏰ Edit Frequency
 
-* Set the delay in seconds for when the announcement should be sent.
-* If multiple announcements share the same frequency, a random one will be chosen to send.
+- Set the delay in seconds for when the announcement should be sent.
+- If multiple announcements share the same frequency, a random one will be chosen to send.
 
 ---
 
 ## ❌ Delete Announcement
 
-* Remove an announcement permanently.
+- Remove an announcement permanently.
 
 ---
 

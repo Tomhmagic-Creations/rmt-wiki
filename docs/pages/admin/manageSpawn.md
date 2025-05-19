@@ -6,26 +6,26 @@ The Manage Spawn menu allows Admins to set and manage various spawn points for t
 
 ## 🌍 Set Default Spawn
 
-* Sets the **vanilla world default spawn** to your current location.
+- Sets the **vanilla world default spawn** to your current location.
 
 ---
 
 ## 🎯 Set Custom Spawn
 
-* Sets a **custom spawn point** based on your current location, rotation, and head rotation.
-* The custom spawn is used for the RMT Spawn button. If no custom spawn is set, the default spawn is used.
+- Sets a **custom spawn point** based on your current location, rotation, and head rotation.
+- The custom spawn is used for the RMT Spawn button. If no custom spawn is set, the default spawn is used.
 
 ---
 
 ## 🚀 Set First Spawn
 
-* Sets a custom **first spawn point** for new players, based on your current location, rotation, and head rotation.
+- Sets a custom **first spawn point** for new players, based on your current location, rotation, and head rotation.
 
 ---
 
 ## ❌ Delete Spawn Points
 
-* If a Custom or First Spawn has been set, options to **delete these spawns** will appear at the bottom of the menu.
+- If a Custom or First Spawn has been set, options to **delete these spawns** will appear at the bottom of the menu.
 
 ---
 

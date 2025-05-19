@@ -6,9 +6,9 @@ The Edit Main Menu feature allows Admins to customize the text displayed in the 
 
 ## ✏️ Editing the Menu
 
-* You can add, edit, move, or delete lines of text.
-* To insert a line break, add a new line with no text.
-* Menu items can be reordered for better organization.
+- You can add, edit, move, or delete lines of text.
+- To insert a line break, add a new line with no text.
+- Menu items can be reordered for better organization.
 
 ---
 

@@ -10,25 +10,24 @@ When adding or editing a rank, you will be presented with input settings to conf
 
 ### ⚙️ Rank Settings:
 
-* **Rank Name:** The display name of the rank (no spaces, must be unique).
-* **Priority:** A unique number to determine rank display order. Higher priority ranks will override lower ones.
-* **Rank Colour:** The color displayed next to the player's name.
-* **Give Type:** How the rank is assigned:
-
-  * **Manual:** Assigned manually through the Manage Players menu.
-  * **Playtime:** Assigned when a player reaches a set playtime in seconds.
-  * **Player Kills:** Assigned based on player kills.
-  * **Monster Kills:** Assigned based on monster kills.
-  * **Deaths:** Assigned based on death count.
-  * **Scoreboard:** Assigned based on a specific scoreboard value.
-* **Give Value:** The target value for non-manual ranks (e.g., playtime seconds, kills).
-* **Scoreboard:** The name of the scoreboard objective if using the scoreboard give type.
+- **Rank Name:** The display name of the rank (no spaces, must be unique).
+- **Priority:** A unique number to determine rank display order. Higher priority ranks will override lower ones.
+- **Rank Colour:** The color displayed next to the player's name.
+- **Give Type:** How the rank is assigned:
+ - **Manual:** Assigned manually through the Manage Players menu.
+ - **Playtime:** Assigned when a player reaches a set playtime in seconds.
+ - **Player Kills:** Assigned based on player kills.
+ - **Monster Kills:** Assigned based on monster kills.
+ - **Deaths:** Assigned based on death count.
+ - **Scoreboard:** Assigned based on a specific scoreboard value.
+- **Give Value:** The target value for non-manual ranks (e.g., playtime seconds, kills).
+- **Scoreboard:** The name of the scoreboard objective if using the scoreboard give type.
 
 ---
 
 ## ❌ Delete Ranks
 
-* Only non-admin and non-moderator ranks can be deleted.
+- Only non-admin and non-moderator ranks can be deleted.
 
 ---
 

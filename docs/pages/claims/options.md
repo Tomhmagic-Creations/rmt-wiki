@@ -6,27 +6,27 @@ Claim and Subclaim options allow players to toggle specific settings to further 
 
 ### 👾 Monster Spawn
 
-* Allows or prevents monster spawning within the claim.
-* **Default:** `True`
+- Allows or prevents monster spawning within the claim.
+- **Default:** `True`
 
 ---
 
 ### 💥 Explosion
 
-* Allows or prevents blocks from being destroyed by explosions.
-* **Default:** `False`
+- Allows or prevents blocks from being destroyed by explosions.
+- **Default:** `False`
 
 ---
 
 ### 🛡️ Entity Damage
 
-* Prevents damage from entities (e.g., mobs).
+- Prevents damage from entities (e.g., mobs).
 
 ---
 
 ### ⚔️ Player Damage
 
-* Prevents damage from other players.
+- Prevents damage from other players.
 
 ---
 

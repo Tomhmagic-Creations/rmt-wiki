@@ -6,17 +6,17 @@ Grant specific players or ranks access to perform actions within your claims or 
 
 ## 👥 Trusted Players
 
-* Add specific players to your Trusted Players list for claims or subclaims.
-* Choose from current online players or from the list of all players.
-* Trusted Players can perform actions defined under the "Trusted" permission level.
+- Add specific players to your Trusted Players list for claims or subclaims.
+- Choose from current online players or from the list of all players.
+- Trusted Players can perform actions defined under the "Trusted" permission level.
 
 ---
 
 ## 🏆 Trusted Ranks
 
-* Similar to Trusted Players, but applied to player ranks.
-* Adding a Trusted Rank allows anyone with that rank to pass permission checks if the permission is set to "Ranks" or "Player & Ranks".
-* Recommended for Admin claims as rank-based permissions apply to all players holding that rank.
+- Similar to Trusted Players, but applied to player ranks.
+- Adding a Trusted Rank allows anyone with that rank to pass permission checks if the permission is set to "Ranks" or "Player & Ranks".
+- Recommended for Admin claims as rank-based permissions apply to all players holding that rank.
 
 ---
 

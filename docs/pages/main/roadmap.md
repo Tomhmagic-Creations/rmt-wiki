@@ -33,16 +33,16 @@
 
 ### Planned Features:
 
-* Rewards for playtime.
-* Customizable rewards.
+- Rewards for playtime.
+- Customizable rewards.
 
 
 ## 🏆 Rank Perks
 
 ### Planned Features:
 
-* Assignable features for ranks.
-* Custom permissions for ranks.
+- Assignable features for ranks.
+- Custom permissions for ranks.
 
 ---
 

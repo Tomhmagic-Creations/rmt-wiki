@@ -6,8 +6,8 @@ The Manage World section allows Admins to adjust world game rules directly from 
 
 ## 🔧 Modify Game Rules
 
-* Access and change any world game rules via the menu.
-* This feature provides a controlled environment for Admins to make changes without full OP access.
+- Access and change any world game rules via the menu.
+- This feature provides a controlled environment for Admins to make changes without full OP access.
 
 ---
 

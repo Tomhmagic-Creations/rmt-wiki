@@ -6,15 +6,13 @@ The Whitelist feature allows moderators to control player access to the server b
 
 ## 🛠️ Managing the Whitelist
 
-* **Add Player to Whitelist:**
+**Add Player to Whitelist:**
+- Opens an input form to enter the player's GameTag.
+- Ensure the GameTag is entered correctly to avoid issues.
 
-  * Opens an input form to enter the player's GameTag.
-  * Ensure the GameTag is entered correctly to avoid issues.
-
-* **Remove Player from Whitelist:**
-
-  * Displays a menu of all whitelisted players.
-  * Clicking a player's name will remove them from the whitelist.
+**Remove Player from Whitelist:**
+- Displays a menu of all whitelisted players.
+- Clicking a player's name will remove them from the whitelist.
 
 ---
 

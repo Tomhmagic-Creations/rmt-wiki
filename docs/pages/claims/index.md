@@ -23,9 +23,9 @@ A claim is a designated area in a dimension where you have control over permissi
 
 Subclaims allow you to assign specific permissions, trusted players, and options to a group of chunks within a main claim. Subclaim chunks do not need to be adjacent but must be in the same dimension as the main claim.
 
-* You can create Subclaims in the RMT menu under Manage Claims.
-* Each Subclaim can have its own permissions, trusted players, and options that override the main claim.
-* Subclaims are useful for assigning specific areas to other players without granting them access to the entire claim.
+- You can create Subclaims in the RMT menu under Manage Claims.
+- Each Subclaim can have its own permissions, trusted players, and options that override the main claim.
+- Subclaims are useful for assigning specific areas to other players without granting them access to the entire claim.
 
 ---
 

@@ -2,11 +2,11 @@
 
 Claims and Subclaims have configurable permissions that can be set to control player interactions. Permissions can be assigned to the following levels:
 
-* **None:** Only the claim owner can perform the action.
-* **Trusted:** Only trusted players and the claim owner can perform the action.
-* **Ranks:** Only trusted ranks and the claim owner can perform the action.
-* **Trusted And Ranks:** Only trusted players, ranks and the claim owner can perform the action.
-* **All:** Anyone can perform the action.
+- **None:** Only the claim owner can perform the action.
+- **Trusted:**-* Only trusted players and the claim owner can perform the action.
+- **Ranks:**-* Only trusted ranks and the claim owner can perform the action.
+- **Trusted And Ranks:**-* Only trusted players, ranks and the claim owner can perform the action.
+- **All:**-* Anyone can perform the action.
 
 ---
 
@@ -14,17 +14,17 @@ Claims and Subclaims have configurable permissions that can be set to control pl
 
 ### 🛠️ Build
 
-* Controls the ability to place blocks.
+- Controls the ability to place blocks.
 
 ### 🪓 Break
 
-* Controls the ability to break blocks.
+- Controls the ability to break blocks.
 
 ### 🎯 Use Item
 
-* Allows using items in hand and on blocks (e.g., stripping wood, creating dirt paths).
-* Custom items from other Add-Ons are also affected by this permission.
-* **Exceptions:** RMT Tool and Chunk Viewer bypass this permission.
+- Allows using items in hand and on blocks (e.g., stripping wood, creating dirt paths).
+- Custom items from other Add-Ons are also affected by this permission.
+- **Exceptions:** RMT Tool and Chunk Viewer bypass this permission.
 
 ---
 
@@ -32,16 +32,16 @@ Claims and Subclaims have configurable permissions that can be set to control pl
 
 Allows interaction with storage blocks:
 
-* Chest
-* Trapped Chest
-* Barrel
-* Shulker Boxes (all colors)
-* Decorated Pot
-* Ender Chest
-* Hopper
-* Dispenser
-* Dropper
-* Crafter
+- Chest
+- Trapped Chest
+- Barrel
+- Shulker Boxes (all colors)
+- Decorated Pot
+- Ender Chest
+- Hopper
+- Dispenser
+- Dropper
+- Crafter
 
 ---
 
@@ -49,18 +49,18 @@ Allows interaction with storage blocks:
 
 Allows interaction with crafting and processing tables:
 
-* Crafting Table
-* Furnace, Blast Furnace, Smoker
-* Cartography Table
-* Grindstone
-* Loom
-* Stonecutter
-* Smithing Table
-* Anvils (all states)
-* Enchanting Table
-* Brewing Stand
-* Beacon
-* Lectern
+- Crafting Table
+- Furnace, Blast Furnace, Smoker
+- Cartography Table
+- Grindstone
+- Loom
+- Stonecutter
+- Smithing Table
+- Anvils (all states)
+- Enchanting Table
+- Brewing Stand
+- Beacon
+- Lectern
 
 ---
 
@@ -68,20 +68,20 @@ Allows interaction with crafting and processing tables:
 
 Allows interaction with interactive blocks:
 
-* All Buttons
-* Lever
-* Daylight Detector
-* Comparator
-* Repeater
-* Fence Gates
-* Trapdoors
-* Doors
+- All Buttons
+- Lever
+- Daylight Detector
+- Comparator
+- Repeater
+- Fence Gates
+- Trapdoors
+- Doors
 
 ---
 
 ### 🛌 Respawn Block Access
 
-* Allows setting or using respawn points (beds, respawn anchors).
+- Allows setting or using respawn points (beds, respawn anchors).
 
 ---
 
@@ -89,13 +89,13 @@ Allows interaction with interactive blocks:
 
 Allows interaction with utility blocks:
 
-* Cauldron
-* Bell
-* Campfire, Soul Campfire
-* Jukebox
-* Note Block
-* Composter
-* Flower Pot
+- Cauldron
+- Bell
+- Campfire, Soul Campfire
+- Jukebox
+- Note Block
+- Composter
+- Flower Pot
 
 ---
 
@@ -103,10 +103,10 @@ Allows interaction with utility blocks:
 
 Allows interaction with decorative blocks and entities:
 
-* Painting
-* Item Frame, Glow Item Frame
-* Signs (all types)
-* Hanging Signs
+- Painting
+- Item Frame, Glow Item Frame
+- Signs (all types)
+- Hanging Signs
 
 ---
 
@@ -114,9 +114,9 @@ Allows interaction with decorative blocks and entities:
 
 Allows interaction with entities:
 
-* Armor Stand
-* Minecarts (all types)
-* Sheep, Cow, Mooshroom
+- Armor Stand
+- Minecarts (all types)
+- Sheep, Cow, Mooshroom
 
 ---
 
@@ -124,20 +124,20 @@ Allows interaction with entities:
 
 Allows interaction with miscellaneous blocks:
 
-* Beehive, Bee Nest
-* Cake, Candle Cakes
-* Vault
-* Candles (all colors)
+- Beehive, Bee Nest
+- Cake, Candle Cakes
+- Vault
+- Candles (all colors)
 
 ---
 
 ### 🏠 Set Home
 
-* Allows setting a home in the claim.
+- Allows setting a home in the claim.
 
 ### 📍 Set Player Warp
 
-* Allows setting a Player Warp in the claim.
+- Allows setting a Player Warp in the claim.
 
 ---
 

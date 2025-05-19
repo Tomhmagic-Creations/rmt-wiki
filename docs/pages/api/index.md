@@ -1,5 +1,4 @@
 ---
-
 prev:
 text: 'Script Events'
 link: 'pages/admin/scriptevent'
