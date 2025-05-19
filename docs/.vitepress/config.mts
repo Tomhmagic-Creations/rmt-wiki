@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: `Realm Management Tool Wiki`,
   description: "A wiki for the Realm Management Tool Add-On created by Tomhmagic Creations",
+  cleanUrls:true,
   lastUpdated: true,
 
   themeConfig: {

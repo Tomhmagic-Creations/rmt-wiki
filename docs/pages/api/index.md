@@ -1,8 +1,8 @@
 ---
-prev:
-text: 'Script Events'
-link: 'pages/admin/scriptevent'
--------------------------------
+prev: 
+    text: 'Script Events'
+    link: 'pages/admin/scriptevent'
+---
 
 # Realm Management Tool API
 
