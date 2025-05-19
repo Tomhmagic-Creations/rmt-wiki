@@ -92,12 +92,14 @@ async function getPermissionFromRMT(permissionCheck: ExternalPermissionCheck): P
       `scriptevent thm_rmt:hasPermission ${JSON.stringify(permissionCheck)}`
     );
 
-    const subscription = system.afterEvents.scriptEventReceive.subscribe((event) => {
+    system.runTimeout(() => {
+        resolve(undefined);
+    },10);
+
+    system.afterEvents.scriptEventReceive.subscribe((event) => {
       if (event.id !== "thm_rmt:hasPermissionResponce") return;
 
       const result = event.message;
-      subscription.unsubscribe();
-
       if (result === "undefined") {
         resolve(undefined);
         return;
