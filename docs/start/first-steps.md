@@ -14,6 +14,8 @@ Set up your world, open the menu, and find the tools you need.
 3. Use the **Realm Tool**, or enter `/thm_rmt:menu` in chat.
 4. Choose a feature from the menu. Buttons depend on your permissions and the realm's configuration.
 
+The realm can give you a Realm Tool automatically on your first join. If you need one later, use `/thm_rmt:tool` (short name `/tool` when available). This needs `thm_rmt:command.tool` and space in your inventory. It does not duplicate a tool you already carry. The Realm Tool no longer has a crafting recipe.
+
 Use the current V2 packs together. A resource pack on its own cannot provide the management features.
 
 ## 📌 If you are a player

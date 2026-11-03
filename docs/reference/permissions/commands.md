@@ -966,6 +966,16 @@ Data Type | Scope
 --- | ---
 allow/deny | global
 
+## thm_rmt:command.tool
+
+**Realm Tool Command**
+
+Request a Realm Tool for yourself without duplicating a carried tool. Requires inventory space. Separate from automatic first-join giving in General settings. Fresh setup grants this to Default; existing V2 groups are not automatically updated.
+
+Data Type | Scope
+--- | ---
+allow/deny | global
+
 ## thm_rmt:command.menu.player
 
 **Open Other Players' Menus**

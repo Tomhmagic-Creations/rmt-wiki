@@ -37,7 +37,7 @@ Use the relevant feature guide for setup, permissions and examples.
 | ![NPC Tops Editor icon](/assets/images/items/v2/npc_tops.png) **NPC Tops Editor** | `thm_rmt:npc_tops` | Change an NPC’s top. Interact to cycle forward; hit to cycle backward. |
 | ![NPC Skin Tone Editor icon](/assets/images/items/v2/npc_skin_tone.png) **NPC Skin Tone Editor** | `thm_rmt:npc_skin_tone` | Change an NPC’s skin tone. Interact to cycle forward; hit to cycle backward. |
 | ![Portal Wand icon](/assets/images/items/v2/portal_wand.png) **Portal Wand** | `thm_rmt:portal_wand` | Select two corners to create or resize a portal. Use in air to open the portal list. |
-| ![Realm Tool icon](/assets/images/items/v2/realm_tool.png) **Realm Tool** | `thm_rmt:realm_tool` | Use item to open the Realm Management Tool Menu |
+| ![Realm Tool icon](/assets/images/items/v2/realm_tool.png) **Realm Tool** | `thm_rmt:realm_tool` | Opens the RMT menu. Request with `/thm_rmt:tool` when permitted; no crafting recipe. First-join giving, locking and keeping on death follow realm policy. |
 | ![Slot Locked icon](/assets/images/items/v2/slot_lock.png) **Slot Locked** | `thm_rmt:slot_lock` | This slot is locked, you cannot remove items from it. |
 | ![Sub Claim Flag icon](/assets/images/items/v2/sub_claim_flag.png) **Sub Claim Flag** | `thm_rmt:sub_claim_flag` | Use on a block for one chunk. Sneak-use two corner chunks to select an area, then choose or create a subclaim. Unclaimed chunks can be skipped or claimed. |
 | ![Emerald Crate icon](/assets/images/items/v2/emerald_crate.png) **Emerald Crate** | `thm_rmt:emerald_crate` | A crate block appearance. Assign the block to a crate definition in Admin > Crates to configure its rewards and payment. |
@@ -61,10 +61,5 @@ Use a crafting table. These are the current declared recipes; choose the listed 
 | `thm_rmt:hologram_edit` | `minecraft:sign` + `minecraft:redstone` + `minecraft:stick` | 1 |
 | `thm_rmt:jump_pad` | `minecraft:heavy_weighted_pressure_plate` + `minecraft:redstone_torch` + `minecraft:slime` | 1 |
 | `thm_rmt:lock` | `minecraft:gold_ingot` + `minecraft:redstone` + `minecraft:iron_ingot` | 1 |
-| `thm_rmt:realm_tool` | `minecraft:cobbled_deepslate` | 1 |
-| `thm_rmt:realm_tool` | `minecraft:cobblestone` | 1 |
-| `thm_rmt:realm_tool` | `minecraft:dirt` | 1 |
-| `thm_rmt:realm_tool` | `minecraft:end_stone` | 1 |
-| `thm_rmt:realm_tool` | `minecraft:netherrack` | 1 |
-| `thm_rmt:realm_tool` | `minecraft:red_sand` | 1 |
-| `thm_rmt:realm_tool` | `minecraft:sand` | 1 |
+
+The Realm Tool has no crafting recipes. Use `/thm_rmt:tool` with the appropriate permission and inventory space.

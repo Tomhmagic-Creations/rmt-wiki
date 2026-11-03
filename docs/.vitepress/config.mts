@@ -66,6 +66,10 @@ export default defineConfig({
         "text": "RMT Menu",
         "items": [
           {
+            "text": "Realm Tool",
+            "link": "/players/realm-tool"
+          },
+          {
             "text": "Profile and personal settings",
             "link": "/players/profile"
           },
@@ -663,6 +667,10 @@ export default defineConfig({
       "collapsed": false,
       "items": [
         {
+          "text": "Realm Tool",
+          "link": "/players/realm-tool"
+        },
+        {
           "text": "Profile and personal settings",
           "link": "/players/profile"
         },
@@ -774,6 +782,10 @@ export default defineConfig({
       "text": "Player guides",
       "collapsed": false,
       "items": [
+        {
+          "text": "Realm Tool",
+          "link": "/players/realm-tool"
+        },
         {
           "text": "Profile and personal settings",
           "link": "/players/profile"

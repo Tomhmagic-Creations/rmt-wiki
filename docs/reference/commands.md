@@ -1898,6 +1898,19 @@ Open the RMT menu for selected players.
 - Command permission: `thm_rmt:command.menu`.
 - Native level: `Any`. Cheats required: false.
 
+## tool
+
+```text
+/thm_rmt:tool
+```
+
+Request a Realm Tool for yourself. Requires inventory space and does not duplicate an already carried tool; an existing carried tool receives the current tool options.
+
+- Aliases: none. The short `/tool` name works when available.
+- Command permission: `thm_rmt:command.tool`.
+- Native level: `Any`. Cheats required: false.
+- Player-only. Automatic first-join distribution is controlled separately in General settings.
+
 ## tpcancel
 
 ```text

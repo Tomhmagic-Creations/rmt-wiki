@@ -18,9 +18,41 @@ The prefix added to supported RMT messages. Use Minecraft formatting codes if yo
 
 ## Give RMT Tool
 
-Give players the Realm Tool when they join. The menu command remains a separate entry path; holding the tool does not bypass locks or claim rules.
+Give players the Realm Tool automatically on their **first join**. This is separate from permission to request a replacement with `/thm_rmt:tool`.
 
 **Control:** Toggle · **Default:** On
+
+## Realm Tool Lock Mode
+
+Choose how carried Realm Tools can be moved or dropped.
+
+| Mode | Behaviour |
+| --- | --- |
+| Unlocked | No tool lock is applied |
+| Lock in Inventory | Players can move the tool within inventory but cannot drop it |
+| Lock in Slot | Players cannot move the tool from its slot or drop it |
+
+**Control:** Dropdown · **Default:** Unlocked
+
+## Keep Realm Tool on Death
+
+Keep the carried Realm Tool when its holder dies. This is independent of lock mode: locking a tool does not automatically enable keeping it on death.
+
+**Control:** Toggle · **Default:** Off
+
+Tool options apply when a tool is given, when a player joins and when these settings change. Changes update carried tools for online players; they do not scan tools stored in chests or offline inventories.
+
+## Replacement command access
+
+`/thm_rmt:tool` requires `thm_rmt:command.tool`, independently of Give RMT Tool. Turning off automatic first-join giving does not disable replacement requests. To prevent both distribution paths, turn off automatic giving and remove or deny the command grant for the intended players.
+
+Fresh setup grants the command to Default. Existing V2 groups are not automatically updated. To enable it for ordinary players in an existing V2 realm:
+
+```text
+/thm_rmt:permgroupnode default add thm_rmt:command.tool allow
+```
+
+Creative inventory and native operator item-giving commands are separate from this command permission. Tool possession does not bypass item-use, claim or lock checks.
 
 ## Custom Nameplates
 

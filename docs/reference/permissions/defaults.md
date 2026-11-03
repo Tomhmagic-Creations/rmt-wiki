@@ -14,6 +14,7 @@ Role-owned first-setup grants, not recurring grants on every load. Every player 
 
 Node | Allowed
 --- | ---
+`thm_rmt:command.tool` | true
 `thm_rmt:build` | true
 `thm_rmt:break` | true
 `thm_rmt:interact.block` | true
@@ -196,6 +197,7 @@ Node | Allowed
 
 Node | Allowed
 --- | ---
+`thm_rmt:command.tool` | true
 `thm_rmt:mod.action_log.view` | true
 `thm_rmt:mod.action_log.player` | true
 `thm_rmt:mod.action_log.area` | true

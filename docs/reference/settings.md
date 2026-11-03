@@ -25,11 +25,37 @@ general | text | `"§f[§dRMT§f]:§r "` | not declared
 
 **Give RMT Tool**
 
-Give the RMT Tool to players when they join the world.
+Give the Realm Tool on a player's first join. Replacement requests use the separate `thm_rmt:command.tool` permission.
 
 Category | Input | Default | Range / Step
 --- | --- | --- | ---
 general | boolean | `true` | not declared
+
+## realmToolLockMode
+
+**Realm Tool Lock Mode**
+
+Choose whether the carried tool is unlocked, movable only within inventory, or locked to its slot. Applies when given, on joining and when settings change.
+
+Category | Input | Default | Range / Step
+--- | --- | --- | ---
+general | dropdown | `0` | Unlocked, Lock in Inventory, Lock in Slot
+
+Index | Choice
+--- | ---
+0 | Unlocked
+1 | Lock in Inventory
+2 | Lock in Slot
+
+## realmToolKeepOnDeath
+
+**Keep Realm Tool on Death**
+
+Keep the Realm Tool when its holder dies. Independent of the lock mode.
+
+Category | Input | Default | Range / Step
+--- | --- | --- | ---
+general | boolean | `false` | not declared
 
 ## customNameplates
 

@@ -28,7 +28,7 @@ Permission definitions are split into dedicated pages, each available directly i
 
 ## [Command permissions](/reference/permissions/commands)
 
-103 permission definitions.
+104 permission definitions.
 
 ## [Personal-setting permissions](/reference/permissions/profile)
 
