@@ -1,0 +1,350 @@
+{
+  "endpoints": [
+    {
+      "id": "permissions",
+      "actions": [
+        {
+          "id": "hasPermission",
+          "link": "/api/permissions/has-permission"
+        },
+        {
+          "id": "getPermission",
+          "link": "/api/permissions/get-permission"
+        },
+        {
+          "id": "hasDataPermission",
+          "link": "/api/permissions/has-data-permission"
+        },
+        {
+          "id": "getDataPermission",
+          "link": "/api/permissions/get-data-permission"
+        },
+        {
+          "id": "hasPermissionFromID",
+          "link": "/api/permissions/has-permission-from-i-d"
+        },
+        {
+          "id": "getPermissionFromID",
+          "link": "/api/permissions/get-permission-from-i-d"
+        },
+        {
+          "id": "getPlayerGroups",
+          "link": "/api/permissions/get-player-groups"
+        },
+        {
+          "id": "getGroup",
+          "link": "/api/permissions/get-group"
+        },
+        {
+          "id": "batch",
+          "link": "/api/permissions/batch"
+        },
+        {
+          "id": "registerPermissions",
+          "link": "/api/permissions/register-permissions"
+        }
+      ]
+    },
+    {
+      "id": "claims",
+      "actions": [
+        {
+          "id": "isInClaim",
+          "link": "/api/claims/is-in-claim"
+        },
+        {
+          "id": "getClaimAtLocation",
+          "link": "/api/claims/get-claim-at-location"
+        },
+        {
+          "id": "getClaimOptions",
+          "link": "/api/claims/get-claim-options"
+        },
+        {
+          "id": "hasClaimRule",
+          "link": "/api/claims/has-claim-rule"
+        },
+        {
+          "id": "getClaimRule",
+          "link": "/api/claims/get-claim-rule"
+        },
+        {
+          "id": "setMetadata",
+          "link": "/api/claims/set-metadata"
+        },
+        {
+          "id": "getMetadata",
+          "link": "/api/claims/get-metadata"
+        },
+        {
+          "id": "removeMetadata",
+          "link": "/api/claims/remove-metadata"
+        }
+      ]
+    },
+    {
+      "id": "holograms",
+      "actions": [
+        {
+          "id": "create",
+          "link": "/api/holograms/create"
+        },
+        {
+          "id": "get",
+          "link": "/api/holograms/get"
+        },
+        {
+          "id": "list",
+          "link": "/api/holograms/list"
+        },
+        {
+          "id": "update",
+          "link": "/api/holograms/update"
+        },
+        {
+          "id": "remove",
+          "link": "/api/holograms/remove"
+        }
+      ]
+    },
+    {
+      "id": "player_data",
+      "actions": [
+        {
+          "id": "getStats",
+          "link": "/api/player_data/get-stats"
+        },
+        {
+          "id": "getClaimAllowance",
+          "link": "/api/player_data/get-claim-allowance"
+        }
+      ]
+    },
+    {
+      "id": "teams",
+      "actions": [
+        {
+          "id": "list",
+          "link": "/api/teams/list"
+        },
+        {
+          "id": "get",
+          "link": "/api/teams/get"
+        },
+        {
+          "id": "getPlayerTeam",
+          "link": "/api/teams/get-player-team"
+        },
+        {
+          "id": "getRole",
+          "link": "/api/teams/get-role"
+        },
+        {
+          "id": "areTeammates",
+          "link": "/api/teams/are-teammates"
+        }
+      ]
+    },
+    {
+      "id": "waypoints",
+      "actions": [
+        {
+          "id": "register",
+          "link": "/api/waypoints/register"
+        },
+        {
+          "id": "list",
+          "link": "/api/waypoints/list"
+        },
+        {
+          "id": "remove",
+          "link": "/api/waypoints/remove"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "actions": [
+        {
+          "id": "register",
+          "link": "/api/events/register"
+        },
+        {
+          "id": "emit",
+          "link": "/api/events/emit"
+        },
+        {
+          "id": "list",
+          "link": "/api/events/list"
+        },
+        {
+          "id": "unregister",
+          "link": "/api/events/unregister"
+        },
+        {
+          "id": "listSubscriptions",
+          "link": "/api/events/list-subscriptions"
+        },
+        {
+          "id": "subscribe",
+          "link": "/api/events/subscribe"
+        },
+        {
+          "id": "unsubscribe",
+          "link": "/api/events/unsubscribe"
+        }
+      ]
+    },
+    {
+      "id": "metadata",
+      "actions": [
+        {
+          "id": "set",
+          "link": "/api/metadata/set"
+        },
+        {
+          "id": "get",
+          "link": "/api/metadata/get"
+        },
+        {
+          "id": "list",
+          "link": "/api/metadata/list"
+        },
+        {
+          "id": "remove",
+          "link": "/api/metadata/remove"
+        }
+      ]
+    },
+    {
+      "id": "stats",
+      "actions": [
+        {
+          "id": "register",
+          "link": "/api/stats/register"
+        },
+        {
+          "id": "set",
+          "link": "/api/stats/set"
+        },
+        {
+          "id": "increment",
+          "link": "/api/stats/increment"
+        },
+        {
+          "id": "get",
+          "link": "/api/stats/get"
+        },
+        {
+          "id": "removeValue",
+          "link": "/api/stats/remove-value"
+        },
+        {
+          "id": "list",
+          "link": "/api/stats/list"
+        },
+        {
+          "id": "unregister",
+          "link": "/api/stats/unregister"
+        }
+      ]
+    },
+    {
+      "id": "stored_commands",
+      "actions": [
+        {
+          "id": "list",
+          "link": "/api/stored_commands/list"
+        },
+        {
+          "id": "exists",
+          "link": "/api/stored_commands/exists"
+        },
+        {
+          "id": "run",
+          "link": "/api/stored_commands/run"
+        }
+      ]
+    },
+    {
+      "id": "world_borders",
+      "actions": [
+        {
+          "id": "list",
+          "link": "/api/world_borders/list"
+        },
+        {
+          "id": "get",
+          "link": "/api/world_borders/get"
+        },
+        {
+          "id": "contains",
+          "link": "/api/world_borders/contains"
+        },
+        {
+          "id": "bypasses",
+          "link": "/api/world_borders/bypasses"
+        },
+        {
+          "id": "allowsAction",
+          "link": "/api/world_borders/allows-action"
+        }
+      ]
+    },
+    {
+      "id": "menus",
+      "actions": [
+        {
+          "id": "register",
+          "link": "/api/menus/register"
+        },
+        {
+          "id": "list",
+          "link": "/api/menus/list"
+        },
+        {
+          "id": "unregister",
+          "link": "/api/menus/unregister"
+        }
+      ]
+    },
+    {
+      "id": "placeholders",
+      "actions": [
+        {
+          "id": "list",
+          "link": "/api/placeholders/list"
+        },
+        {
+          "id": "resolve",
+          "link": "/api/placeholders/resolve"
+        },
+        {
+          "id": "resolveText",
+          "link": "/api/placeholders/resolve-text"
+        },
+        {
+          "id": "resolveRawText",
+          "link": "/api/placeholders/resolve-raw-text"
+        },
+        {
+          "id": "resolveTextRawText",
+          "link": "/api/placeholders/resolve-text-raw-text"
+        },
+        {
+          "id": "register",
+          "link": "/api/placeholders/register"
+        },
+        {
+          "id": "setValues",
+          "link": "/api/placeholders/set-values"
+        },
+        {
+          "id": "unregister",
+          "link": "/api/placeholders/unregister"
+        }
+      ]
+    }
+  ],
+  "examples": 70
+}
