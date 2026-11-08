@@ -314,30 +314,6 @@ Manage metadata on non-player entities. Vectors use three numeric components.
 - Command permission: `thm_rmt:command.entitymetadataremove`.
 - Native level: `Any`. Cheats required: false.
 
-## raycastblock
-
-```text
-/thm_rmt:raycastblock <position:Location> <directionX:Float> <directionY:Float> <directionZ:Float> [maxDistance:Float] [includeLiquids:Boolean] [includePassable:Boolean] [excludeTypes:String] [includeTypes:String] [dimensionID:String]
-```
-
-Find a loaded block along a ray. Type filters are comma-separated IDs or none; max distance defaults to 16.
-
-- Aliases: none.
-- Command permission: `thm_rmt:command.raycastblock`.
-- Native level: `Any`. Cheats required: false.
-
-## raycastentity
-
-```text
-/thm_rmt:raycastentity <position:Location> <directionX:Float> <directionY:Float> <directionZ:Float> [maxDistance:Float] [ignoreBlockCollision:Boolean] [includeLiquids:Boolean] [includePassable:Boolean] [matchEntities:EntitySelector] [dimensionID:String]
-```
-
-Find the nearest matching entity along a ray; an optional selector filters against every selected entity.
-
-- Aliases: none.
-- Command permission: `thm_rmt:command.raycastentity`.
-- Native level: `Any`. Cheats required: false.
-
 ## tpa
 
 ```text

@@ -126,26 +126,6 @@ Data Type | Scope
 --- | ---
 allow/deny | global
 
-## thm_rmt:command.raycastblock
-
-**raycastblock Command**
-
-Find a loaded block along a ray using optional type filters.
-
-Data Type | Scope
---- | ---
-allow/deny | global
-
-## thm_rmt:command.raycastentity
-
-**raycastentity Command**
-
-Find the nearest matching entity along a ray using an optional entity selector.
-
-Data Type | Scope
---- | ---
-allow/deny | global
-
 ## thm_rmt:command.entitymetadatastring
 
 **entitymetadatastring Command**

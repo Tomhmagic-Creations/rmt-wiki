@@ -374,8 +374,6 @@ Node | Allowed
 `thm_rmt:command.particleplayer` | true
 `thm_rmt:command.blockinfo` | true
 `thm_rmt:command.entityinfo` | true
-`thm_rmt:command.raycastblock` | true
-`thm_rmt:command.raycastentity` | true
 `thm_rmt:command.entitymetadatastring` | true
 `thm_rmt:command.entitymetadatastringget` | true
 `thm_rmt:command.entitymetadatabool` | true
